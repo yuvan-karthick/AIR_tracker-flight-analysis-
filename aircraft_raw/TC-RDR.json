@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2133186,
+    "reg": "TC-RDR",
+    "active": true,
+    "serial": "11548",
+    "hexIcao": "4BC892",
+    "airlineName": "Pegasus",
+    "iataCodeShort": "32Q",
+    "icaoCode": "A21N",
+    "model": "A21N",
+    "modelCode": "321-251NX",
+    "numSeats": 239,
+    "deliveryDate": "2023-10-10",
+    "registrationDate": "2023-10-10",
+    "typeName": "Airbus A321 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321 NEO",
+    "ageYears": 2.2,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

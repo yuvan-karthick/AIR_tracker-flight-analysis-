@@ -1,0 +1,17 @@
+[
+  {
+    "id": 180382,
+    "reg": "A6-FMY",
+    "active": true,
+    "airlineName": "flydubai",
+    "iataCodeShort": "7M8",
+    "icaoCode": "B38M",
+    "typeName": "Boeing 737 MAX 8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 MAX",
+    "verified": false,
+    "numRegistrations": 1
+  }
+]

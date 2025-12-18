@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2121174,
+    "reg": "VT-YAA",
+    "active": true,
+    "serial": "62871",
+    "hexIcao": "8014E6",
+    "airlineName": "Akasa Air",
+    "iataCodeShort": "7M8",
+    "icaoCode": "B38M",
+    "model": "B38M",
+    "modelCode": "737-8MAX",
+    "numSeats": 189,
+    "firstFlightDate": "2019-06-27",
+    "deliveryDate": "2022-06-21",
+    "registrationDate": "2022-06-21",
+    "typeName": "Boeing 737 MAX 8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 MAX",
+    "ageYears": 6.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

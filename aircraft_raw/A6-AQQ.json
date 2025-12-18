@@ -1,0 +1,27 @@
+[
+  {
+    "id": 23573,
+    "reg": "A6-AQQ",
+    "active": true,
+    "serial": "6072",
+    "hexIcao": "8966B0",
+    "airlineName": "Air Arabia",
+    "iataCodeShort": "32A",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-214",
+    "numSeats": 180,
+    "rolloutDate": "2014-03-20",
+    "firstFlightDate": "2014-03-20",
+    "deliveryDate": "2014-05-13",
+    "registrationDate": "2025-01-30",
+    "typeName": "Airbus A320 (Sharklets)",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 11.7,
+    "verified": true,
+    "numRegistrations": 3
+  }
+]

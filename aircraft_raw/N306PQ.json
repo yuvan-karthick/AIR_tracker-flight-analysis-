@@ -1,0 +1,33 @@
+[
+  {
+    "id": 30197,
+    "reg": "N306PQ",
+    "active": false,
+    "hexIcao": "A336F0",
+    "airlineName": "Delta Air Lines",
+    "typeName": "Bombardier CRJ900",
+    "isFreighter": false,
+    "verified": false,
+    "numRegistrations": 1
+  },
+  {
+    "id": 2117560,
+    "reg": "N306PQ",
+    "active": true,
+    "serial": "15306",
+    "hexIcao": "A336F0",
+    "airlineName": "Endeavor Air",
+    "iataCodeShort": "CR9",
+    "icaoCode": "CRJ9",
+    "model": "CRJ9",
+    "modelCode": "CRJ-900LR",
+    "registrationDate": "2014-02-25",
+    "typeName": "Canadair CRJ 900",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Canadair CRJ 900",
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

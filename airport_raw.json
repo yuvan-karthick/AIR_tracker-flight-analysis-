@@ -1,0 +1,466 @@
+[
+  {
+    "icao": "EGLL",
+    "iata": "LHR",
+    "shortName": "Heathrow",
+    "fullName": "London Heathrow",
+    "municipalityName": "London",
+    "location": {
+      "lat": 51.4706,
+      "lon": -0.461941
+    },
+    "elevation": {
+      "meter": 25.3,
+      "km": 0.03,
+      "mile": 0.02,
+      "nm": 0.01,
+      "feet": 83.0
+    },
+    "country": {
+      "code": "GB",
+      "name": "United Kingdom"
+    },
+    "continent": {
+      "code": "EU",
+      "name": "Europe"
+    },
+    "timeZone": "Europe/London",
+    "urls": {
+      "webSite": "http://www.heathrow.com/",
+      "wikipedia": "https://en.wikipedia.org/wiki/London_Heathrow_Airport",
+      "twitter": "https://x.com/HeathrowAirport",
+      "flightRadar": "https://www.flightradar24.com/51.47,-0.46/14",
+      "googleMaps": "https://www.google.com/maps/@51.470600,-0.461941,14z"
+    }
+  },
+  {
+    "icao": "KJFK",
+    "iata": "JFK",
+    "shortName": "John F Kennedy",
+    "fullName": "New York John F Kennedy",
+    "municipalityName": "New York",
+    "location": {
+      "lat": 40.6398,
+      "lon": -73.7789
+    },
+    "elevation": {
+      "meter": 3.96,
+      "km": 0.0,
+      "mile": 0.0,
+      "nm": 0.0,
+      "feet": 13.0
+    },
+    "country": {
+      "code": "US",
+      "name": "United States"
+    },
+    "continent": {
+      "code": "NA",
+      "name": "North America"
+    },
+    "timeZone": "America/New_York",
+    "urls": {
+      "webSite": "http://www.panynj.gov/airports/jfk.html",
+      "wikipedia": "https://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport",
+      "twitter": "https://x.com/JFKairport",
+      "liveAtc": "https://www.liveatc.net/search/?icao=KJFK",
+      "flightRadar": "https://www.flightradar24.com/40.64,-73.78/14",
+      "googleMaps": "https://www.google.com/maps/@40.639801,-73.778900,14z"
+    }
+  },
+  {
+    "icao": "MDCR",
+    "iata": "CBJ",
+    "shortName": "Cabo Rojo",
+    "fullName": "Cabo Rojo",
+    "municipalityName": "Cabo Rojo",
+    "location": {
+      "lat": 17.929,
+      "lon": -71.6448
+    },
+    "elevation": {
+      "meter": 79.86,
+      "km": 0.08,
+      "mile": 0.05,
+      "nm": 0.04,
+      "feet": 262.0
+    },
+    "country": {
+      "code": "DO",
+      "name": "Dominican Republic"
+    },
+    "continent": {
+      "code": "NA",
+      "name": "North America"
+    },
+    "timeZone": "America/Santo_Domingo",
+    "urls": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Cabo_Rojo_Airport",
+      "flightRadar": "https://www.flightradar24.com/17.93,-71.64/14",
+      "googleMaps": "https://www.google.com/maps/@17.929000,-71.644798,14z"
+    }
+  },
+  {
+    "icao": "VIDP",
+    "iata": "DEL",
+    "shortName": "Indira Gandhi",
+    "fullName": "New Delhi Indira Gandhi",
+    "municipalityName": "New Delhi",
+    "location": {
+      "lat": 28.5665,
+      "lon": 77.1031
+    },
+    "elevation": {
+      "meter": 236.83,
+      "km": 0.24,
+      "mile": 0.15,
+      "nm": 0.13,
+      "feet": 777.0
+    },
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+      "webSite": "http://www.newdelhiairport.in/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport",
+      "flightRadar": "https://www.flightradar24.com/28.57,77.10/14",
+      "googleMaps": "https://www.google.com/maps/@28.566499,77.103103,14z"
+    }
+  },
+  {
+    "icao": "VABB",
+    "iata": "BOM",
+    "shortName": "Chhatrapati Shivaji",
+    "fullName": "Mumbai Chhatrapati Shivaji",
+    "municipalityName": "Mumbai",
+    "location": {
+      "lat": 19.0887,
+      "lon": 72.8679
+    },
+    "elevation": {
+      "meter": 11.89,
+      "km": 0.01,
+      "mile": 0.01,
+      "nm": 0.01,
+      "feet": 39.0
+    },
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+      "webSite": "https://csmia.adaniairports.com/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Chhatrapati_Shivaji_International_Airport",
+      "flightRadar": "https://www.flightradar24.com/19.09,72.87/14",
+      "googleMaps": "https://www.google.com/maps/@19.088699,72.867897,14z"
+    }
+  },
+  {
+    "icao": "VOBL",
+    "iata": "BLR",
+    "shortName": "Bengaluru",
+    "fullName": "Bangalore Bengaluru",
+    "municipalityName": "Bangalore",
+    "location": {
+      "lat": 13.197899,
+      "lon": 77.7063
+    },
+    "elevation": {
+      "meter": 914.4,
+      "km": 0.91,
+      "mile": 0.57,
+      "nm": 0.49,
+      "feet": 3000.0
+    },
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+      "webSite": "https://www.bengaluruairport.com/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Bengaluru_International_Airport",
+      "twitter": "https://x.com/BLRAirport",
+      "flightRadar": "https://www.flightradar24.com/13.20,77.71/14",
+      "googleMaps": "https://www.google.com/maps/@13.197899,77.706298,14z"
+    }
+  },
+  {
+    "icao": "OMDB",
+    "iata": "DXB",
+    "shortName": "Dubai",
+    "fullName": "Dubai",
+    "municipalityName": "Dubai",
+    "location": {
+      "lat": 25.252798,
+      "lon": 55.3644
+    },
+    "elevation": {
+      "meter": 18.9,
+      "km": 0.02,
+      "mile": 0.01,
+      "nm": 0.01,
+      "feet": 62.0
+    },
+    "country": {
+      "code": "AE",
+      "name": "United Arab Emirates"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Dubai",
+    "urls": {
+      "webSite": "http://www.dubaiairports.ae/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Dubai_International_Airport",
+      "twitter": "https://x.com/DubaiAirports",
+      "flightRadar": "https://www.flightradar24.com/25.25,55.36/14",
+      "googleMaps": "https://www.google.com/maps/@25.252799,55.364398,14z"
+    }
+  },
+  {
+    "icao": "WSSS",
+    "iata": "SIN",
+    "shortName": "Changi",
+    "fullName": "Singapore Changi",
+    "municipalityName": "Singapore",
+    "location": {
+      "lat": 1.35019,
+      "lon": 103.994
+    },
+    "elevation": {
+      "meter": 6.71,
+      "km": 0.01,
+      "mile": 0.0,
+      "nm": 0.0,
+      "feet": 22.0
+    },
+    "country": {
+      "code": "SG",
+      "name": "Singapore"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Singapore",
+    "urls": {
+      "webSite": "http://www.changiairport.com/en/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Singapore_Changi_Airport",
+      "twitter": "https://x.com/ChangiAirport",
+      "flightRadar": "https://www.flightradar24.com/1.35,103.99/14",
+      "googleMaps": "https://www.google.com/maps/@1.350190,103.994003,14z"
+    }
+  },
+  {
+    "icao": "VOHS",
+    "iata": "HYD",
+    "shortName": "Rajiv Gandhi",
+    "fullName": "Hyderabad Rajiv Gandhi",
+    "municipalityName": "Hyderabad",
+    "location": {
+      "lat": 17.231318,
+      "lon": 78.429855
+    },
+    "elevation": {
+      "meter": 616.92,
+      "km": 0.62,
+      "mile": 0.38,
+      "nm": 0.33,
+      "feet": 2024.0
+    },
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+      "webSite": "http://www.shamshabadairport.com/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Airport",
+      "flightRadar": "https://www.flightradar24.com/17.23,78.43/14",
+      "googleMaps": "https://www.google.com/maps/@17.231317,78.429855,14z"
+    }
+  },
+  {
+    "icao": "VECC",
+    "iata": "CCU",
+    "shortName": "Netaji Subhash Chandra Bose",
+    "fullName": "Kolkata Netaji Subhash Chandra Bose",
+    "municipalityName": "Kolkata",
+    "location": {
+      "lat": 22.6547,
+      "lon": 88.4467
+    },
+    "elevation": {
+      "meter": 4.88,
+      "km": 0.0,
+      "mile": 0.0,
+      "nm": 0.0,
+      "feet": 16.0
+    },
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Netaji_Subhash_Chandra_Bose_International_Airport",
+      "flightRadar": "https://www.flightradar24.com/22.65,88.45/14",
+      "googleMaps": "https://www.google.com/maps/@22.654699,88.446701,14z"
+    }
+  },
+  {
+    "icao": "VAAH",
+    "iata": "AMD",
+    "shortName": "Sardar Vallabhbhai Patel",
+    "fullName": "Ahmedabad Sardar Vallabhbhai Patel",
+    "municipalityName": "Ahmedabad",
+    "location": {
+      "lat": 23.0772,
+      "lon": 72.6347
+    },
+    "elevation": {
+      "meter": 57.61,
+      "km": 0.06,
+      "mile": 0.04,
+      "nm": 0.03,
+      "feet": 189.0
+    },
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_International_Airport",
+      "flightRadar": "https://www.flightradar24.com/23.08,72.63/14",
+      "googleMaps": "https://www.google.com/maps/@23.077199,72.634696,14z"
+    }
+  },
+  {
+    "icao": "VOCI",
+    "iata": "COK",
+    "shortName": "Cochin",
+    "fullName": "Kochi Cochin",
+    "municipalityName": "Kochi",
+    "location": {
+      "lat": 10.152,
+      "lon": 76.4019
+    },
+    "elevation": {
+      "meter": 9.14,
+      "km": 0.01,
+      "mile": 0.01,
+      "nm": 0.0,
+      "feet": 30.0
+    },
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+      "webSite": "http://www.cochin-airport.com/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Cochin_International_Airport",
+      "flightRadar": "https://www.flightradar24.com/10.15,76.40/14",
+      "googleMaps": "https://www.google.com/maps/@10.152000,76.401901,14z"
+    }
+  },
+  {
+    "icao": "VOGA",
+    "iata": "GOX",
+    "shortName": "Manohar",
+    "fullName": "Mopa Manohar",
+    "municipalityName": "Mopa",
+    "location": {
+      "lat": 15.736724,
+      "lon": 73.86901
+    },
+    "elevation": {
+      "meter": 168.25,
+      "km": 0.17,
+      "mile": 0.1,
+      "nm": 0.09,
+      "feet": 552.0
+    },
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+      "webSite": "https://www.miagoaairport.com/",
+      "wikipedia": "https://en.wikipedia.org/wiki/Manohar_International_Airport",
+      "flightRadar": "https://www.flightradar24.com/15.74,73.87/14",
+      "googleMaps": "https://www.google.com/maps/@15.736724,73.869009,14z"
+    }
+  },
+  {
+    "icao": "VAPO",
+    "iata": "PNQ",
+    "shortName": "Pune",
+    "fullName": "Pune",
+    "municipalityName": "Pune",
+    "location": {
+      "lat": 18.5821,
+      "lon": 73.9197
+    },
+    "elevation": {
+      "meter": 591.92,
+      "km": 0.59,
+      "mile": 0.37,
+      "nm": 0.32,
+      "feet": 1942.0
+    },
+    "country": {
+      "code": "IN",
+      "name": "India"
+    },
+    "continent": {
+      "code": "AS",
+      "name": "Asia"
+    },
+    "timeZone": "Asia/Kolkata",
+    "urls": {
+      "wikipedia": "https://en.wikipedia.org/wiki/Pune_Airport",
+      "flightRadar": "https://www.flightradar24.com/18.58,73.92/14",
+      "googleMaps": "https://www.google.com/maps/@18.582099,73.919700,14z"
+    }
+  }
+]

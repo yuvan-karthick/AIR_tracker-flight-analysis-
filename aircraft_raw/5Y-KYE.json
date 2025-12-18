@@ -1,0 +1,27 @@
+[
+  {
+    "id": 13803,
+    "reg": "5Y-KYE",
+    "active": true,
+    "serial": "35286",
+    "hexIcao": "04C044",
+    "airlineName": "Kenya Airways",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "B737-8Q8",
+    "numSeats": 145,
+    "rolloutDate": "2008-12-08",
+    "firstFlightDate": "2008-12-08",
+    "deliveryDate": "2009-01-13",
+    "registrationDate": "2009-01-13",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 17.0,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

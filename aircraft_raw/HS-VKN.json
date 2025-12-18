@@ -1,0 +1,26 @@
+[
+  {
+    "id": 24042,
+    "reg": "HS-VKN",
+    "active": true,
+    "serial": "6242",
+    "hexIcao": "88596E",
+    "airlineName": "Thai AirAsia X",
+    "iataCodeShort": "32A",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-214",
+    "rolloutDate": "2014-08-29",
+    "firstFlightDate": "2014-08-29",
+    "deliveryDate": "2014-09-17",
+    "registrationDate": "2020-11-14",
+    "typeName": "Airbus A320 (Sharklets)",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 11.3,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

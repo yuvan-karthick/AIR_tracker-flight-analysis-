@@ -1,0 +1,27 @@
+[
+  {
+    "id": 16773,
+    "reg": "A6-BLE",
+    "active": true,
+    "serial": "39650",
+    "hexIcao": "89640A",
+    "airlineName": "Etihad Airways",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "B787-9",
+    "numSeats": 235,
+    "rolloutDate": "2015-06-13",
+    "firstFlightDate": "2015-06-13",
+    "deliveryDate": "2015-07-01",
+    "registrationDate": "2015-07-01",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 10.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

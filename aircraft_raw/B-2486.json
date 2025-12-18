@@ -1,0 +1,27 @@
+[
+  {
+    "id": 17875,
+    "reg": "B-2486",
+    "active": true,
+    "serial": "41192",
+    "hexIcao": "780CB7",
+    "airlineName": "Air China",
+    "iataCodeShort": "747",
+    "icaoCode": "B747",
+    "model": "B748",
+    "modelCode": "B747-89L",
+    "numSeats": 365,
+    "rolloutDate": "2014-10-20",
+    "firstFlightDate": "2014-10-20",
+    "deliveryDate": "2014-11-06",
+    "registrationDate": "2014-11-06",
+    "typeName": "Boeing 747",
+    "numEngines": 4,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 747",
+    "ageYears": 11.2,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

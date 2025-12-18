@@ -1,0 +1,41 @@
+[
+  {
+    "id": 108788,
+    "reg": "A6-FMT",
+    "active": false,
+    "hexIcao": "89656A",
+    "airlineName": "flydubai",
+    "iataCodeShort": "7M8",
+    "icaoCode": "B38M",
+    "typeName": "Boeing 737 MAX 8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 MAX",
+    "verified": false,
+    "numRegistrations": 1
+  },
+  {
+    "id": 2114222,
+    "reg": "A6-FMT",
+    "active": true,
+    "serial": "60995",
+    "hexIcao": "89656A",
+    "airlineName": "flydubai",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "B737-8MAX",
+    "numSeats": 174,
+    "rolloutDate": "2021-08-14",
+    "registrationDate": "2021-09-15",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 4.3,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

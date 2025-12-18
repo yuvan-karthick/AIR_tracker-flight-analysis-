@@ -1,0 +1,27 @@
+[
+  {
+    "id": 13303,
+    "reg": "VT-SXA",
+    "active": true,
+    "serial": "34804",
+    "hexIcao": "800DA3",
+    "airlineName": "SpiceJet",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "737-85R",
+    "numSeats": 186,
+    "rolloutDate": "2007-06-08",
+    "firstFlightDate": "2007-06-08",
+    "deliveryDate": "2007-06-25",
+    "registrationDate": "2019-06-13",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 18.5,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2144890,
+    "reg": "JA08WJ",
+    "active": true,
+    "serial": "683",
+    "hexIcao": "841FDC",
+    "airlineName": "Air Japan",
+    "iataCodeShort": "351",
+    "icaoCode": "A35K",
+    "model": "A35K",
+    "modelCode": "350-1041",
+    "numSeats": 239,
+    "firstFlightDate": "2024-11-24",
+    "deliveryDate": "2024-12-06",
+    "registrationDate": "2024-12-06",
+    "typeName": "Airbus A350-1000",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 1.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

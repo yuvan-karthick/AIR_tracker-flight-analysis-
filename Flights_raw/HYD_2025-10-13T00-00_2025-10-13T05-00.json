@@ -1,0 +1,2318 @@
+{
+  "departures": [
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:35Z",
+          "local": "2025-10-13 00:05+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OOMS",
+          "iata": "MCT",
+          "name": "Muscat",
+          "timeZone": "Asia/Muscat"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 21:45Z",
+          "local": "2025-10-13 01:45+04:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 1273",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:45Z",
+          "local": "2025-10-13 00:15+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VOBL",
+          "iata": "BLR",
+          "name": "Bangalore",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 20:00Z",
+          "local": "2025-10-13 01:30+05:30"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 19:46Z",
+          "local": "2025-10-13 01:16+05:30"
+        },
+        "terminal": "1",
+        "gate": "A7",
+        "baggageBelt": "06B",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "6E 949",
+      "callSign": "IGO68RD",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-IMH",
+        "modeS": "8014BB",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:45Z",
+          "local": "2025-10-13 00:15+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "WMKK",
+          "iata": "KUL",
+          "name": "Kuala Lumpur",
+          "timeZone": "Asia/Kuala_Lumpur"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 23:45Z",
+          "local": "2025-10-13 07:45+08:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 23:31Z",
+          "local": "2025-10-13 07:31+08:00"
+        },
+        "terminal": "1",
+        "gate": "G008L",
+        "baggageBelt": "H",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "MH 199",
+      "callSign": "MAS199",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9M-MXN",
+        "modeS": "75020E",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Malaysia",
+        "iata": "MH",
+        "icao": "MAS"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:50Z",
+          "local": "2025-10-13 00:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VOMM",
+          "iata": "MAA",
+          "name": "Chennai",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 20:05Z",
+          "local": "2025-10-13 01:35+05:30"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 6007",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:40Z",
+          "local": "2025-10-13 01:10+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VAPO",
+          "iata": "PNQ",
+          "name": "Pune",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 20:50Z",
+          "local": "2025-10-13 02:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 337",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:40Z",
+          "local": "2025-10-13 01:10+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VTBS",
+          "iata": "BKK",
+          "name": "Bangkok",
+          "timeZone": "Asia/Bangkok"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 23:15Z",
+          "local": "2025-10-13 06:15+07:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 23:11Z",
+          "local": "2025-10-13 06:11+07:00"
+        },
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TG 330",
+      "callSign": "THA330",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HS-TQD",
+        "modeS": "885224",
+        "model": "Boeing 787-8"
+      },
+      "airline": {
+        "name": "Thai  International",
+        "iata": "TG",
+        "icao": "THA"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 20:20Z",
+          "local": "2025-10-13 01:50+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VHHH",
+          "iata": "HKG",
+          "name": "Hong Kong",
+          "timeZone": "Asia/Shanghai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 01:30Z",
+          "local": "2025-10-13 09:30+08:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-13 01:53Z",
+          "local": "2025-10-13 09:53+08:00"
+        },
+        "terminal": "1",
+        "gate": "W46",
+        "baggageBelt": "13",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "CX 672",
+      "callSign": "CPA672",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "B-LAN",
+        "modeS": "780A0B",
+        "model": "Airbus A330-300"
+      },
+      "airline": {
+        "name": "Cathay Pacific",
+        "iata": "CX",
+        "icao": "CPA"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 20:50Z",
+          "local": "2025-10-13 02:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EHAM",
+          "iata": "AMS",
+          "name": "Amsterdam",
+          "timeZone": "Europe/Amsterdam"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 06:40Z",
+          "local": "2025-10-13 08:40+02:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-13 06:30Z",
+          "local": "2025-10-13 08:30+02:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-13 06:30Z",
+          "local": "2025-10-13 08:30+02:00"
+        },
+        "terminal": "2",
+        "baggageBelt": "10",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "KL 874",
+      "callSign": "KLM874",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "PH-BQB",
+        "modeS": "484369",
+        "model": "Boeing 777"
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 21:20Z",
+          "local": "2025-10-13 02:50+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OKBK",
+          "iata": "KWI",
+          "name": "Kuwait City",
+          "timeZone": "Asia/Kuwait"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 02:40Z",
+          "local": "2025-10-13 05:40+03:00"
+        },
+        "terminal": "4",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "KU 374",
+      "callSign": "KAC374",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9K-AKO",
+        "modeS": "706068",
+        "model": "Airbus A320 (Sharklets)"
+      },
+      "airline": {
+        "name": "Kuwait",
+        "iata": "KU",
+        "icao": "KAC"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 21:25Z",
+          "local": "2025-10-13 02:55+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VAPO",
+          "iata": "PNQ",
+          "name": "Pune",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 22:45Z",
+          "local": "2025-10-13 04:15+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "IX 2645",
+      "callSign": "AXB2645",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-BWO",
+        "modeS": "801784",
+        "model": "Boeing 737 MAX 8"
+      },
+      "airline": {
+        "name": "Air India Express",
+        "iata": "IX",
+        "icao": "AXB"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 21:25Z",
+          "local": "2025-10-13 02:55+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OMAA",
+          "iata": "AUH",
+          "name": "Abu Dhabi Island and Internal Islands City",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 01:10Z",
+          "local": "2025-10-13 05:10+04:00"
+        },
+        "terminal": "A",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 1448",
+      "callSign": "IGO1448",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "modeS": "801752",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 21:35Z",
+          "local": "2025-10-13 03:05+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OMDB",
+          "iata": "DXB",
+          "name": "Dubai",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 01:30Z",
+          "local": "2025-10-13 05:30+04:00"
+        },
+        "terminal": "2",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "FZ 436",
+      "callSign": "FDB436",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "A6-FKC",
+        "modeS": "8965CE",
+        "model": "Boeing 737"
+      },
+      "airline": {
+        "name": "flydubai",
+        "iata": "FZ",
+        "icao": "FDB"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 21:40Z",
+          "local": "2025-10-13 03:10+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 07:00Z",
+          "local": "2025-10-13 09:00+02:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-13 07:09Z",
+          "local": "2025-10-13 09:09+02:00"
+        },
+        "terminal": "1",
+        "gate": "A1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LH 753",
+      "callSign": "DLH753",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-ABPA",
+        "modeS": "3C4A01",
+        "model": "Boeing 787-9"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:00Z",
+          "local": "2025-10-13 03:30+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OTHH",
+          "iata": "DOH",
+          "name": "Doha",
+          "timeZone": "Asia/Qatar"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 02:00Z",
+          "local": "2025-10-13 05:00+03:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-13 01:51Z",
+          "local": "2025-10-13 04:51+03:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-13 01:45Z",
+          "local": "2025-10-13 04:45+03:00"
+        },
+        "baggageBelt": "3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "QR 501",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 787-8"
+      },
+      "airline": {
+        "name": "Qatar",
+        "iata": "QR",
+        "icao": "QTR"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:25Z",
+          "local": "2025-10-13 03:55+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VTBS",
+          "iata": "BKK",
+          "name": "Bangkok",
+          "timeZone": "Asia/Bangkok"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 02:25Z",
+          "local": "2025-10-13 09:25+07:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 1067",
+      "callSign": "IGO1067",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-ILC",
+        "modeS": "801405",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:25Z",
+          "local": "2025-10-13 03:55+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OOMS",
+          "iata": "MCT",
+          "name": "Muscat",
+          "timeZone": "Asia/Muscat"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 02:05Z",
+          "local": "2025-10-13 06:05+04:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "OV 736",
+      "callSign": "OMS736",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "A4O-OVI",
+        "modeS": "70C10E",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "SalamAir",
+        "iata": "OV",
+        "icao": "OMS"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:40Z",
+          "local": "2025-10-13 04:10+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VIDP",
+          "iata": "DEL",
+          "name": "New Delhi",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 01:00Z",
+          "local": "2025-10-13 06:30+05:30"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 6230",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:50Z",
+          "local": "2025-10-13 04:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OMSJ",
+          "iata": "SHJ",
+          "name": "Sharjah",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 02:30Z",
+          "local": "2025-10-13 06:30+04:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "G9 468",
+      "callSign": "ABY468",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "A6-ANT",
+        "modeS": "89638D",
+        "model": "Airbus A320 (Sharklets)"
+      },
+      "airline": {
+        "name": "Air Arabia",
+        "iata": "G9",
+        "icao": "ABY"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:50Z",
+          "local": "2025-10-13 04:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OMAA",
+          "iata": "AUH",
+          "name": "Abu Dhabi Island and Internal Islands City",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 02:45Z",
+          "local": "2025-10-13 06:45+04:00"
+        },
+        "terminal": "A",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "EY 353",
+      "callSign": "ETD353",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "A6-AEF",
+        "modeS": "89642B",
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Etihad",
+        "iata": "EY",
+        "icao": "ETD"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:55Z",
+          "local": "2025-10-13 04:25+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OTHH",
+          "iata": "DOH",
+          "name": "Doha",
+          "timeZone": "Asia/Qatar"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 02:55Z",
+          "local": "2025-10-13 05:55+03:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-13 02:57Z",
+          "local": "2025-10-13 05:57+03:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-13 02:51Z",
+          "local": "2025-10-13 05:51+03:00"
+        },
+        "baggageBelt": "2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "6E 1313",
+      "callSign": "IGO1313",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-IFQ",
+        "modeS": "8007CD",
+        "model": "Airbus A320 (Sharklets)"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 23:05Z",
+          "local": "2025-10-13 04:35+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VAPO",
+          "iata": "PNQ",
+          "name": "Pune",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 00:15Z",
+          "local": "2025-10-13 05:45+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 351",
+      "callSign": "IGO351",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-ITR",
+        "modeS": "800C11",
+        "model": "Airbus A320 (Sharklets)"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 23:05Z",
+          "local": "2025-10-13 04:35+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "OMDB",
+          "iata": "DXB",
+          "name": "Dubai",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 02:40Z",
+          "local": "2025-10-13 06:40+04:00"
+        },
+        "terminal": "3",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "EK 525",
+      "callSign": "UAE525",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "A6-ECZ",
+        "modeS": "896121",
+        "model": "Boeing 777-300"
+      },
+      "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-12 23:25Z",
+          "local": "2025-10-13 04:55+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "VOBL",
+          "iata": "BLR",
+          "name": "Bangalore",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-13 01:05Z",
+          "local": "2025-10-13 06:35+05:30"
+        },
+        "revisedTime": {
+          "utc": "2025-10-13 00:31Z",
+          "local": "2025-10-13 06:01+05:30"
+        },
+        "runwayTime": {
+          "utc": "2025-10-13 00:23Z",
+          "local": "2025-10-13 05:53+05:30"
+        },
+        "terminal": "2",
+        "gate": "D12",
+        "baggageBelt": "7B",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "IX 1239",
+      "callSign": "AXB1239",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-RTO",
+        "modeS": "801615",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Air India Express",
+        "iata": "IX",
+        "icao": "AXB"
+      }
+    }
+  ],
+  "arrivals": [
+    {
+      "departure": {
+        "airport": {
+          "icao": "VOTV",
+          "iata": "TRV",
+          "name": "Trivandrum",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 16:45Z",
+          "local": "2025-10-12 22:15+05:30"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:35Z",
+          "local": "2025-10-13 00:05+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 335",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VIDP",
+          "iata": "DEL",
+          "name": "New Delhi",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 16:20Z",
+          "local": "2025-10-12 21:50+05:30"
+        },
+        "terminal": "3",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:40Z",
+          "local": "2025-10-13 00:10+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "AI 2449",
+      "callSign": "AIC2449",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-TNZ",
+        "modeS": "8013FE",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Air India",
+        "iata": "AI",
+        "icao": "AIC"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VTBS",
+          "iata": "BKK",
+          "name": "Bangkok",
+          "timeZone": "Asia/Bangkok"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 15:10Z",
+          "local": "2025-10-12 22:10+07:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 15:41Z",
+          "local": "2025-10-12 22:41+07:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-12 15:41Z",
+          "local": "2025-10-12 22:41+07:00"
+        },
+        "runway": "19R",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:40Z",
+          "local": "2025-10-13 00:10+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "TG 329",
+      "callSign": "THA329",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HS-TQD",
+        "modeS": "885224",
+        "model": "Boeing 787-8"
+      },
+      "airline": {
+        "name": "Thai  International",
+        "iata": "TG",
+        "icao": "THA"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VOCL",
+          "iata": "CCJ",
+          "name": "Calicut",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 17:15Z",
+          "local": "2025-10-12 22:45+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:45Z",
+          "local": "2025-10-13 00:15+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 876",
+      "callSign": "IGO876",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-IIF",
+        "modeS": "801470",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VOVZ",
+          "iata": "VTZ",
+          "name": "Visakhapatnam",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 17:40Z",
+          "local": "2025-10-12 23:10+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:50Z",
+          "local": "2025-10-13 00:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 385",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VEPT",
+          "iata": "PAT",
+          "name": "Patna",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 16:50Z",
+          "local": "2025-10-12 22:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 18:55Z",
+          "local": "2025-10-13 00:25+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 6138",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EHAM",
+          "iata": "AMS",
+          "name": "Amsterdam",
+          "timeZone": "Europe/Amsterdam"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 09:40Z",
+          "local": "2025-10-12 11:40+02:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 09:43Z",
+          "local": "2025-10-12 11:43+02:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-12 09:55Z",
+          "local": "2025-10-12 11:55+02:00"
+        },
+        "terminal": "2",
+        "checkInDesk": "9-16",
+        "gate": "E3",
+        "runway": "24",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:00Z",
+          "local": "2025-10-13 00:30+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "KL 873",
+      "callSign": "KLM873",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "PH-BQB",
+        "modeS": "484369",
+        "model": "Boeing 777"
+      },
+      "airline": {
+        "name": "KLM",
+        "iata": "KL",
+        "icao": "KLM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VEBS",
+          "iata": "BBI",
+          "name": "Bhubaneswar",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 17:25Z",
+          "local": "2025-10-12 22:55+05:30"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:00Z",
+          "local": "2025-10-13 00:30+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 631",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VIBN",
+          "iata": "VNS",
+          "name": "Varanasi",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 17:10Z",
+          "local": "2025-10-12 22:40+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:05Z",
+          "local": "2025-10-13 00:35+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 6683",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VABB",
+          "iata": "BOM",
+          "name": "Mumbai",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 17:30Z",
+          "local": "2025-10-12 23:00+05:30"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:05Z",
+          "local": "2025-10-13 00:35+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 5393",
+      "callSign": "IGO5393",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-ICC",
+        "modeS": "8016DF",
+        "model": "Airbus A321 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VHHH",
+          "iata": "HKG",
+          "name": "Hong Kong",
+          "timeZone": "Asia/Shanghai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 13:40Z",
+          "local": "2025-10-12 21:40+08:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 13:40Z",
+          "local": "2025-10-12 21:40+08:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "B",
+        "gate": "67",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:15Z",
+          "local": "2025-10-13 00:45+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "CX 673",
+      "callSign": "CPA673",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "B-LAN",
+        "modeS": "780A0B",
+        "model": "Airbus A330-300"
+      },
+      "airline": {
+        "name": "Cathay Pacific",
+        "iata": "CX",
+        "icao": "CPA"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VOCB",
+          "iata": "CJB",
+          "name": "Coimbatore",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 18:05Z",
+          "local": "2025-10-12 23:35+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:30Z",
+          "local": "2025-10-13 01:00+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 6301",
+      "callSign": "IGO6301",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-IFZ",
+        "modeS": "800AF1",
+        "model": "Airbus A320 (Sharklets)"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VOGO",
+          "iata": "GOI",
+          "name": "Vasco da Gama",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 18:15Z",
+          "local": "2025-10-12 23:45+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:35Z",
+          "local": "2025-10-13 01:05+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 985",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main",
+          "timeZone": "Europe/Berlin"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 11:05Z",
+          "local": "2025-10-12 13:05+02:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 11:05Z",
+          "local": "2025-10-12 13:05+02:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-12 11:25Z",
+          "local": "2025-10-12 13:25+02:00"
+        },
+        "terminal": "1",
+        "checkInDesk": "259-335",
+        "gate": "Z58",
+        "runway": "18",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 19:50Z",
+          "local": "2025-10-13 01:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "LH 752",
+      "callSign": "DLH752",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-ABPA",
+        "modeS": "3C4A01",
+        "model": "Boeing 787-9"
+      },
+      "airline": {
+        "name": "Lufthansa",
+        "iata": "LH",
+        "icao": "DLH"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VIDP",
+          "iata": "DEL",
+          "name": "New Delhi",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 17:50Z",
+          "local": "2025-10-12 23:20+05:30"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 20:05Z",
+          "local": "2025-10-13 01:35+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 2158",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VAAH",
+          "iata": "AMD",
+          "name": "Ahmedabad",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 18:20Z",
+          "local": "2025-10-12 23:50+05:30"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 20:05Z",
+          "local": "2025-10-13 01:35+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 383",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OMDB",
+          "iata": "DXB",
+          "name": "Dubai",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 16:50Z",
+          "local": "2025-10-12 20:50+04:00"
+        },
+        "terminal": "2",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 20:25Z",
+          "local": "2025-10-13 01:55+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "FZ 435",
+      "callSign": "FDB435",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "A6-FKC",
+        "modeS": "8965CE",
+        "model": "Boeing 737"
+      },
+      "airline": {
+        "name": "flydubai",
+        "iata": "FZ",
+        "icao": "FDB"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OKBK",
+          "iata": "KWI",
+          "name": "Kuwait City",
+          "timeZone": "Asia/Kuwait"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 15:45Z",
+          "local": "2025-10-12 18:45+03:00"
+        },
+        "terminal": "4",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 20:25Z",
+          "local": "2025-10-13 01:55+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "KU 373",
+      "callSign": "KAC373",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9K-AKO",
+        "modeS": "706068",
+        "model": "Airbus A320 (Sharklets)"
+      },
+      "airline": {
+        "name": "Kuwait",
+        "iata": "KU",
+        "icao": "KAC"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OTHH",
+          "iata": "DOH",
+          "name": "Doha",
+          "timeZone": "Asia/Qatar"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 16:30Z",
+          "local": "2025-10-12 19:30+03:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 16:29Z",
+          "local": "2025-10-12 19:29+03:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-12 16:47Z",
+          "local": "2025-10-12 19:47+03:00"
+        },
+        "gate": "C10",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 20:30Z",
+          "local": "2025-10-13 02:00+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "QR 500",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 787-8"
+      },
+      "airline": {
+        "name": "Qatar",
+        "iata": "QR",
+        "icao": "QTR"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OTHH",
+          "iata": "DOH",
+          "name": "Doha",
+          "timeZone": "Asia/Qatar"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 16:35Z",
+          "local": "2025-10-12 19:35+03:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 16:45Z",
+          "local": "2025-10-12 19:45+03:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-12 16:55Z",
+          "local": "2025-10-12 19:55+03:00"
+        },
+        "gate": "C80",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 20:55Z",
+          "local": "2025-10-13 02:25+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 1316",
+      "status": "Expected",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OOMS",
+          "iata": "MCT",
+          "name": "Muscat",
+          "timeZone": "Asia/Muscat"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 18:20Z",
+          "local": "2025-10-12 22:20+04:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 21:35Z",
+          "local": "2025-10-13 03:05+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "OV 735",
+      "callSign": "OMS735",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "A4O-OVI",
+        "modeS": "70C10E",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "SalamAir",
+        "iata": "OV",
+        "icao": "OMS"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OMDB",
+          "iata": "DXB",
+          "name": "Dubai",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 18:00Z",
+          "local": "2025-10-12 22:00+04:00"
+        },
+        "terminal": "3",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 21:35Z",
+          "local": "2025-10-13 03:05+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "EK 524",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 777-300ER"
+      },
+      "airline": {
+        "name": "Emirates",
+        "iata": "EK",
+        "icao": "UAE"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VAPO",
+          "iata": "PNQ",
+          "name": "Pune",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 20:20Z",
+          "local": "2025-10-13 01:50+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 21:40Z",
+          "local": "2025-10-13 03:10+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 336",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OMSJ",
+          "iata": "SHJ",
+          "name": "Sharjah",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 18:30Z",
+          "local": "2025-10-12 22:30+04:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:10Z",
+          "local": "2025-10-13 03:40+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "G9 467",
+      "callSign": "ABY467",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "A6-ANT",
+        "modeS": "89638D",
+        "model": "Airbus A320 (Sharklets)"
+      },
+      "airline": {
+        "name": "Air Arabia",
+        "iata": "G9",
+        "icao": "ABY"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OMSJ",
+          "iata": "SHJ",
+          "name": "Sharjah",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 18:40Z",
+          "local": "2025-10-12 22:40+04:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:25Z",
+          "local": "2025-10-13 03:55+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 1422",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VIDP",
+          "iata": "DEL",
+          "name": "New Delhi",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 20:20Z",
+          "local": "2025-10-13 01:50+05:30"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:35Z",
+          "local": "2025-10-13 04:05+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 6229",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VABB",
+          "iata": "BOM",
+          "name": "Mumbai",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 21:15Z",
+          "local": "2025-10-13 02:45+05:30"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:50Z",
+          "local": "2025-10-13 04:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 5179",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OMAA",
+          "iata": "AUH",
+          "name": "Abu Dhabi Island and Internal Islands City",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 17:30Z",
+          "local": "2025-10-12 21:30+04:00"
+        },
+        "terminal": "A",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 22:50Z",
+          "local": "2025-10-13 04:20+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "EY 352",
+      "callSign": "ETD352",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "A6-AEF",
+        "modeS": "89642B",
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Etihad",
+        "iata": "EY",
+        "icao": "ETD"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OMDB",
+          "iata": "DXB",
+          "name": "Dubai",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 19:10Z",
+          "local": "2025-10-12 23:10+04:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 23:05Z",
+          "local": "2025-10-13 04:35+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "6E 1466",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "IndiGo",
+        "iata": "6E",
+        "icao": "IGO"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OMDB",
+          "iata": "DXB",
+          "name": "Dubai",
+          "timeZone": "Asia/Dubai"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 19:25Z",
+          "local": "2025-10-12 23:25+04:00"
+        },
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 23:15Z",
+          "local": "2025-10-13 04:45+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "AI 2204",
+      "callSign": "AIC2204",
+      "status": "Unknown",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VT-TQA",
+        "modeS": "801408",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Air India",
+        "iata": "AI",
+        "icao": "AIC"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "VIDP",
+          "iata": "DEL",
+          "name": "New Delhi",
+          "timeZone": "Asia/Kolkata"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 21:00Z",
+          "local": "2025-10-13 02:30+05:30"
+        },
+        "terminal": "3",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-12 23:20Z",
+          "local": "2025-10-13 04:50+05:30"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "AI 2577",
+      "status": "Unknown",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Air India",
+        "iata": "AI",
+        "icao": "AIC"
+      }
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 12029,
+    "reg": "F-GZNB",
+    "active": true,
+    "serial": "32964",
+    "hexIcao": "3965A1",
+    "airlineName": "Air France",
+    "iataCodeShort": "773",
+    "icaoCode": "B773",
+    "model": "B773",
+    "modelCode": "777-328ER",
+    "numSeats": 296,
+    "rolloutDate": "2008-04-20",
+    "firstFlightDate": "2008-04-20",
+    "deliveryDate": "2008-04-29",
+    "registrationDate": "2008-04-29",
+    "typeName": "Boeing 777-300",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 17.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

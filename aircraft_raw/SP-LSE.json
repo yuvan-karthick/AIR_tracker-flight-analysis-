@@ -1,0 +1,27 @@
+[
+  {
+    "id": 24002,
+    "reg": "SP-LSE",
+    "active": true,
+    "serial": "62173",
+    "hexIcao": "48AE24",
+    "airlineName": "LOT - Polish Airlines",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "B787-9",
+    "numSeats": 294,
+    "rolloutDate": "2019-04-20",
+    "firstFlightDate": "2019-04-20",
+    "deliveryDate": "2019-04-30",
+    "registrationDate": "2019-04-30",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 6.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 15092,
+    "reg": "9V-OFE",
+    "active": true,
+    "serial": "37122",
+    "hexIcao": "76BCC5",
+    "airlineName": "Scoot",
+    "iataCodeShort": "788",
+    "icaoCode": "B788",
+    "model": "B788",
+    "modelCode": "B787-8",
+    "numSeats": 335,
+    "rolloutDate": "2016-04-11",
+    "firstFlightDate": "2016-04-11",
+    "deliveryDate": "2016-04-26",
+    "registrationDate": "2016-04-27",
+    "typeName": "Boeing 787-8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 9.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

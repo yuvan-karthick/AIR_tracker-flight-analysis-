@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2122558,
+    "reg": "G-VBOB",
+    "active": true,
+    "serial": "605",
+    "hexIcao": "407F19",
+    "airlineName": "Virgin Atlantic",
+    "iataCodeShort": "351",
+    "icaoCode": "A35K",
+    "model": "A35K",
+    "modelCode": "350-1041",
+    "numSeats": 335,
+    "deliveryDate": "2023-05-24",
+    "registrationDate": "2023-05-24",
+    "typeName": "Airbus A350-1000",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 2.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

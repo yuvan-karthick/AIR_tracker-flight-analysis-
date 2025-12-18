@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2145025,
+    "reg": "B-32L9",
+    "active": true,
+    "serial": "12312",
+    "hexIcao": "782217",
+    "airlineName": "China Eastern Airlines",
+    "iataCodeShort": "32Q",
+    "icaoCode": "A21N",
+    "model": "A21N",
+    "modelCode": "321-251NX",
+    "numSeats": 198,
+    "deliveryDate": "2025-01-22",
+    "registrationDate": "2025-01-22",
+    "typeName": "Airbus A321 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321 NEO",
+    "ageYears": 0.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

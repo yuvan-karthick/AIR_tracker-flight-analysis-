@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2121781,
+    "reg": "VN-A526",
+    "active": true,
+    "serial": "10434",
+    "hexIcao": "8881D7",
+    "airlineName": "VietJetAir",
+    "iataCodeShort": "32Q",
+    "icaoCode": "A21N",
+    "model": "A21N",
+    "modelCode": "321-271NX",
+    "deliveryDate": "2022-12-30",
+    "registrationDate": "2022-12-30",
+    "typeName": "Airbus A321 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321 NEO",
+    "ageYears": 3.0,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

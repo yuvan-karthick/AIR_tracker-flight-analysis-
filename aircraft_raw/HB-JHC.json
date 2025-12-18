@@ -1,0 +1,27 @@
+[
+  {
+    "id": 514,
+    "reg": "HB-JHC",
+    "active": true,
+    "serial": "1029",
+    "hexIcao": "4B187C",
+    "airlineName": "SWISS",
+    "iataCodeShort": "330",
+    "icaoCode": "A330",
+    "model": "A333",
+    "modelCode": "330-343X",
+    "numSeats": 236,
+    "rolloutDate": "2009-06-18",
+    "firstFlightDate": "2009-06-18",
+    "deliveryDate": "2009-07-29",
+    "registrationDate": "2009-07-29",
+    "typeName": "Airbus A330",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "ageYears": 16.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

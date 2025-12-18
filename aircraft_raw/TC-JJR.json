@@ -1,0 +1,27 @@
+[
+  {
+    "id": 19312,
+    "reg": "TC-JJR",
+    "active": true,
+    "serial": "44116",
+    "hexIcao": "4BA952",
+    "airlineName": "Turkish Airlines",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-3F2ER",
+    "numSeats": 349,
+    "rolloutDate": "2014-06-10",
+    "firstFlightDate": "2014-06-10",
+    "deliveryDate": "2014-07-15",
+    "registrationDate": "2014-07-15",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 11.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

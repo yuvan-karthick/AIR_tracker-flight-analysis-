@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2122631,
+    "reg": "A6-FPE",
+    "active": true,
+    "serial": "61003",
+    "hexIcao": "8965C4",
+    "airlineName": "flydubai",
+    "iataCodeShort": "7M8",
+    "icaoCode": "B38M",
+    "model": "B38M",
+    "modelCode": "737-8MAX",
+    "numSeats": 166,
+    "firstFlightDate": "2022-07-20",
+    "deliveryDate": "2022-08-05",
+    "registrationDate": "2022-08-05",
+    "typeName": "Boeing 737 MAX 8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 MAX",
+    "ageYears": 3.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

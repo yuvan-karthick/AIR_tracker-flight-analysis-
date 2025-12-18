@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2133836,
+    "reg": "VT-RTS",
+    "active": true,
+    "serial": "11985",
+    "hexIcao": "801667",
+    "airlineName": "Air India",
+    "iataCodeShort": "32N",
+    "icaoCode": "A20N",
+    "model": "A20N",
+    "modelCode": "320-251N",
+    "numSeats": 180,
+    "deliveryDate": "2024-03-07",
+    "registrationDate": "2024-03-07",
+    "typeName": "Airbus A320 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320 NEO",
+    "ageYears": 1.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

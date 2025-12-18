@@ -1,0 +1,27 @@
+[
+  {
+    "id": 15141,
+    "reg": "C-FRSR",
+    "active": true,
+    "serial": "37178",
+    "hexIcao": "C02ECA",
+    "airlineName": "Air Canada",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "B787-9",
+    "numSeats": 298,
+    "rolloutDate": "2017-05-01",
+    "firstFlightDate": "2017-05-01",
+    "deliveryDate": "2017-05-12",
+    "registrationDate": "2017-05-12",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 8.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

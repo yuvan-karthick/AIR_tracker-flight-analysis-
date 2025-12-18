@@ -1,0 +1,27 @@
+[
+  {
+    "id": 24076,
+    "reg": "9K-AOI",
+    "active": true,
+    "serial": "62566",
+    "hexIcao": "70605B",
+    "airlineName": "Kuwait Airways",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "777-369ER",
+    "numSeats": 334,
+    "rolloutDate": "2017-03-11",
+    "firstFlightDate": "2017-03-11",
+    "deliveryDate": "2017-03-11",
+    "registrationDate": "2017-03-11",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 8.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

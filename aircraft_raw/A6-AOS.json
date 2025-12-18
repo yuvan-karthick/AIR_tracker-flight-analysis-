@@ -1,0 +1,27 @@
+[
+  {
+    "id": 26389,
+    "reg": "A6-AOS",
+    "active": true,
+    "serial": "7767",
+    "hexIcao": "8964D9",
+    "airlineName": "Air Arabia",
+    "iataCodeShort": "320",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-214",
+    "numSeats": 168,
+    "rolloutDate": "2017-06-23",
+    "firstFlightDate": "2017-06-23",
+    "deliveryDate": "2017-06-29",
+    "registrationDate": "2017-06-29",
+    "typeName": "Airbus A320",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 8.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

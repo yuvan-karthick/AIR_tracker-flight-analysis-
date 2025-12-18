@@ -1,0 +1,27 @@
+[
+  {
+    "id": 13109,
+    "reg": "ET-ATI",
+    "active": true,
+    "serial": "34487",
+    "hexIcao": "040125",
+    "airlineName": "Ethiopian Airlines",
+    "iataCodeShort": "788",
+    "icaoCode": "B788",
+    "model": "B788",
+    "modelCode": "B787-8",
+    "numSeats": 270,
+    "rolloutDate": "2017-02-02",
+    "firstFlightDate": "2017-02-02",
+    "deliveryDate": "2017-05-25",
+    "registrationDate": "2017-05-26",
+    "typeName": "Boeing 787-8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 8.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

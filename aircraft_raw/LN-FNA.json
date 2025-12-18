@@ -1,0 +1,27 @@
+[
+  {
+    "id": 24344,
+    "reg": "LN-FNA",
+    "active": true,
+    "serial": "63345",
+    "hexIcao": "47B217",
+    "airlineName": "Norse Atlantic Airways",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "B787-9",
+    "numSeats": 338,
+    "rolloutDate": "2019-05-15",
+    "firstFlightDate": "2019-05-15",
+    "deliveryDate": "2019-06-14",
+    "registrationDate": "2022-02-24",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 6.6,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

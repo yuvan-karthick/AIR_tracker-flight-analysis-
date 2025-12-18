@@ -1,0 +1,27 @@
+[
+  {
+    "id": 15276,
+    "reg": "VT-SGV",
+    "active": true,
+    "serial": "37362",
+    "hexIcao": "80067F",
+    "airlineName": "SpiceJet",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "737-8GJ",
+    "numSeats": 189,
+    "rolloutDate": "2011-10-24",
+    "firstFlightDate": "2011-10-24",
+    "deliveryDate": "2011-11-08",
+    "registrationDate": "2011-11-08",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 14.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

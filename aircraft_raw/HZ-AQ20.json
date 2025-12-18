@@ -1,0 +1,27 @@
+[
+  {
+    "id": 3579,
+    "reg": "HZ-AQ20",
+    "active": true,
+    "serial": "1764",
+    "hexIcao": "7100BE",
+    "airlineName": "Saudi Arabian Airlines",
+    "iataCodeShort": "330",
+    "icaoCode": "A330",
+    "model": "A333",
+    "modelCode": "330-343E",
+    "numSeats": 330,
+    "rolloutDate": "2016-12-07",
+    "firstFlightDate": "2016-12-07",
+    "deliveryDate": "2016-12-22",
+    "registrationDate": "2016-12-22",
+    "typeName": "Airbus A330",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "ageYears": 9.0,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

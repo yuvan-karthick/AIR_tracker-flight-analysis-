@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2133783,
+    "reg": "A6-BNG",
+    "active": true,
+    "serial": "39677",
+    "hexIcao": "8965F5",
+    "airlineName": "Etihad Airways",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "787-9",
+    "numSeats": 303,
+    "firstFlightDate": "2023-11-08",
+    "deliveryDate": "2024-02-17",
+    "registrationDate": "2024-02-17",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 2.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 12155,
+    "reg": "F-HTYA",
+    "active": true,
+    "serial": "331",
+    "hexIcao": "39CF00",
+    "airlineName": "Air France",
+    "iataCodeShort": "350",
+    "icaoCode": "A350",
+    "model": "A359",
+    "modelCode": "350-941",
+    "numSeats": 324,
+    "rolloutDate": "2019-08-27",
+    "firstFlightDate": "2019-08-27",
+    "deliveryDate": "2019-09-27",
+    "registrationDate": "2019-09-27",
+    "typeName": "Airbus A350",
+    "numEngines": 2,
+    "engineType": "Turboprop",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 6.3,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

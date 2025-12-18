@@ -1,0 +1,20 @@
+[
+  {
+    "id": 2121413,
+    "reg": "VT-IIY",
+    "active": true,
+    "serial": "10957",
+    "airlineName": "IndiGo",
+    "iataCodeShort": "32N",
+    "icaoCode": "A20N",
+    "model": "A20N",
+    "modelCode": "320-251N",
+    "typeName": "Airbus A320 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320 NEO",
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

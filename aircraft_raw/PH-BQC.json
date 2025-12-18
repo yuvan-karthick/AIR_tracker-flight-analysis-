@@ -1,0 +1,27 @@
+[
+  {
+    "id": 9403,
+    "reg": "PH-BQC",
+    "active": true,
+    "serial": "29397",
+    "hexIcao": "48436A",
+    "airlineName": "KLM",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B772",
+    "modelCode": "B777-206/ER",
+    "numSeats": 306,
+    "rolloutDate": "2003-11-12",
+    "firstFlightDate": "2003-11-12",
+    "deliveryDate": "2003-11-24",
+    "registrationDate": "2003-11-25",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 22.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

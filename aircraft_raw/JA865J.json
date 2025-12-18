@@ -1,0 +1,27 @@
+[
+  {
+    "id": 15828,
+    "reg": "JA865J",
+    "active": true,
+    "serial": "38138",
+    "hexIcao": "86E474",
+    "airlineName": "Air Japan",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "B787-9",
+    "numSeats": 195,
+    "rolloutDate": "2016-08-01",
+    "firstFlightDate": "2016-08-01",
+    "deliveryDate": "2016-08-18",
+    "registrationDate": "2016-08-19",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 9.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

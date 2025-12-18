@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2145762,
+    "reg": "A6-BNJ",
+    "active": true,
+    "serial": "42370",
+    "hexIcao": "8966C5",
+    "airlineName": "Etihad Airways",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "787-9",
+    "deliveryDate": "2025-07-26",
+    "registrationDate": "2025-07-26",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 0.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

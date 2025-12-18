@@ -1,0 +1,27 @@
+[
+  {
+    "id": 11884,
+    "reg": "9V-SHJ",
+    "active": true,
+    "serial": "328",
+    "hexIcao": "76CD0A",
+    "airlineName": "Singapore Airlines",
+    "iataCodeShort": "350",
+    "icaoCode": "A350",
+    "model": "A359",
+    "modelCode": "350-941",
+    "numSeats": 303,
+    "rolloutDate": "2019-07-19",
+    "firstFlightDate": "2019-07-19",
+    "deliveryDate": "2019-08-09",
+    "registrationDate": "2019-08-09",
+    "typeName": "Airbus A350",
+    "numEngines": 2,
+    "engineType": "Turboprop",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 6.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

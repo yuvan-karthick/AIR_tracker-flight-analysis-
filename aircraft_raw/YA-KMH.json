@@ -1,0 +1,27 @@
+[
+  {
+    "id": 16134,
+    "reg": "YA-KMH",
+    "active": true,
+    "serial": "387",
+    "hexIcao": "700015",
+    "airlineName": "Kam Air",
+    "iataCodeShort": "343",
+    "icaoCode": "A343",
+    "model": "A343",
+    "modelCode": "340-313X",
+    "numSeats": 345,
+    "rolloutDate": "2001-01-26",
+    "firstFlightDate": "2001-01-26",
+    "deliveryDate": "2001-03-01",
+    "registrationDate": "2018-07-13",
+    "typeName": "Airbus A340-300",
+    "numEngines": 4,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A340",
+    "ageYears": 24.9,
+    "verified": true,
+    "numRegistrations": 4
+  }
+]

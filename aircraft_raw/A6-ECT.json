@@ -1,0 +1,27 @@
+[
+  {
+    "id": 14006,
+    "reg": "A6-ECT",
+    "active": true,
+    "serial": "35591",
+    "hexIcao": "89611B",
+    "airlineName": "Emirates",
+    "iataCodeShort": "773",
+    "icaoCode": "B773",
+    "model": "B773",
+    "modelCode": "B777-31HER",
+    "numSeats": 354,
+    "rolloutDate": "2009-08-10",
+    "firstFlightDate": "2009-08-10",
+    "deliveryDate": "2009-08-27",
+    "registrationDate": "2009-08-26",
+    "typeName": "Boeing 777-300",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 16.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

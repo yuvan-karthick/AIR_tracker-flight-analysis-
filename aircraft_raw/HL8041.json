@@ -1,0 +1,27 @@
+[
+  {
+    "id": 23452,
+    "reg": "HL8041",
+    "active": true,
+    "serial": "60375",
+    "hexIcao": "71C041",
+    "airlineName": "Korean Air",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-3B5ER",
+    "numSeats": 277,
+    "rolloutDate": "2016-05-16",
+    "firstFlightDate": "2016-05-16",
+    "deliveryDate": "2016-05-27",
+    "registrationDate": "2016-05-27",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 9.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

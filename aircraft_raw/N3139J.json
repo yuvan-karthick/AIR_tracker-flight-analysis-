@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2133326,
+    "reg": "N3139J",
+    "active": true,
+    "serial": "55234",
+    "hexIcao": "A35592",
+    "airlineName": "JetBlue Airways",
+    "iataCodeShort": "223",
+    "icaoCode": "BCS3",
+    "model": "BCS3",
+    "modelCode": "220-371",
+    "numSeats": 140,
+    "firstFlightDate": "2023-10-20",
+    "deliveryDate": "2023-11-16",
+    "registrationDate": "2023-11-16",
+    "typeName": "Airbus A220-300",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A220",
+    "ageYears": 2.2,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

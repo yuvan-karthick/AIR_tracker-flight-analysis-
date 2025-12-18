@@ -1,0 +1,27 @@
+[
+  {
+    "id": 23546,
+    "reg": "G-ZBJM",
+    "active": true,
+    "serial": "60631",
+    "hexIcao": "4074E4",
+    "airlineName": "British Airways",
+    "iataCodeShort": "788",
+    "icaoCode": "B788",
+    "model": "B788",
+    "modelCode": "B787-8",
+    "numSeats": 214,
+    "rolloutDate": "2018-11-08",
+    "firstFlightDate": "2018-11-08",
+    "deliveryDate": "2018-11-15",
+    "registrationDate": "2018-11-15",
+    "typeName": "Boeing 787-8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 7.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

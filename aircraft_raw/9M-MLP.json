@@ -1,0 +1,27 @@
+[
+  {
+    "id": 16636,
+    "reg": "9M-MLP",
+    "active": true,
+    "serial": "39326",
+    "hexIcao": "7502B0",
+    "airlineName": "Malaysia Airlines",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "B737-8H6",
+    "numSeats": 160,
+    "rolloutDate": "2012-10-05",
+    "firstFlightDate": "2012-10-05",
+    "deliveryDate": "2012-10-12",
+    "registrationDate": "2012-10-12",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 13.2,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

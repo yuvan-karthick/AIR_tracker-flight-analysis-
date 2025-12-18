@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2145856,
+    "reg": "VT-NHA",
+    "active": true,
+    "serial": "12685",
+    "hexIcao": "801806",
+    "airlineName": "IndiGo",
+    "iataCodeShort": "32Q",
+    "icaoCode": "A21N",
+    "model": "A21N",
+    "modelCode": "321-251NX",
+    "deliveryDate": "2025-09-03",
+    "registrationDate": "2025-09-03",
+    "typeName": "Airbus A321 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321 NEO",
+    "ageYears": 0.3,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

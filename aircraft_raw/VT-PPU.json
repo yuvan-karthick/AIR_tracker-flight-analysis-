@@ -1,0 +1,27 @@
+[
+  {
+    "id": 17665,
+    "reg": "VT-PPU",
+    "active": true,
+    "serial": "4096",
+    "hexIcao": "800543",
+    "airlineName": "Air India",
+    "iataCodeShort": "321",
+    "icaoCode": "A321",
+    "model": "A321",
+    "modelCode": "321-211",
+    "numSeats": 172,
+    "rolloutDate": "2009-11-12",
+    "firstFlightDate": "2009-11-12",
+    "deliveryDate": "2009-11-28",
+    "registrationDate": "2009-11-28",
+    "typeName": "Airbus A321",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321",
+    "ageYears": 16.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

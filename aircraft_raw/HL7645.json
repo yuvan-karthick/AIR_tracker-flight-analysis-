@@ -1,0 +1,26 @@
+[
+  {
+    "id": 10724,
+    "reg": "HL7645",
+    "active": true,
+    "serial": "30765",
+    "hexIcao": "71BE45",
+    "airlineName": "Asiana Airlines",
+    "iataCodeShort": "744",
+    "icaoCode": "B744",
+    "model": "B744",
+    "modelCode": "747-409F",
+    "rolloutDate": "2001-11-09",
+    "firstFlightDate": "2001-11-09",
+    "deliveryDate": "2001-11-16",
+    "registrationDate": "2024-10-31",
+    "typeName": "Boeing 747-400",
+    "numEngines": 4,
+    "engineType": "Jet",
+    "isFreighter": true,
+    "productionLine": "Boeing 747",
+    "ageYears": 24.1,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

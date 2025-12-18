@@ -1,0 +1,26 @@
+[
+  {
+    "id": 23659,
+    "reg": "A6-FNC",
+    "active": true,
+    "serial": "60983",
+    "hexIcao": "896516",
+    "airlineName": "flydubai",
+    "iataCodeShort": "737",
+    "model": "B739",
+    "modelCode": "B737-9MAX",
+    "numSeats": 172,
+    "rolloutDate": "2018-11-18",
+    "firstFlightDate": "2018-11-18",
+    "deliveryDate": "2018-12-12",
+    "registrationDate": "2019-02-27",
+    "typeName": "Boeing 737",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737",
+    "ageYears": 7.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

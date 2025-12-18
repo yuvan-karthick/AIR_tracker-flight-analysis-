@@ -1,0 +1,27 @@
+[
+  {
+    "id": 13985,
+    "reg": "A6-EWA",
+    "active": true,
+    "serial": "35572",
+    "hexIcao": "896173",
+    "airlineName": "Emirates",
+    "iataCodeShort": "772",
+    "icaoCode": "B772",
+    "model": "B772",
+    "modelCode": "B777-21HLR",
+    "numSeats": 302,
+    "rolloutDate": "2007-08-08",
+    "firstFlightDate": "2007-08-08",
+    "deliveryDate": "2007-08-31",
+    "registrationDate": "2007-08-31",
+    "typeName": "Boeing 777-200",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 18.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

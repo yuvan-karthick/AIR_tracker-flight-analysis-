@@ -1,0 +1,24 @@
+[
+  {
+    "id": 2133592,
+    "reg": "VT-YAW",
+    "active": true,
+    "serial": "66149",
+    "hexIcao": "80161D",
+    "airlineName": "Air G",
+    "iataCodeShort": "7M8",
+    "icaoCode": "B38M",
+    "model": "B38M",
+    "modelCode": "737-8MAX",
+    "deliveryDate": "2023-12-31",
+    "registrationDate": "2023-12-31",
+    "typeName": "Boeing 737 MAX 8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 MAX",
+    "ageYears": 2.0,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

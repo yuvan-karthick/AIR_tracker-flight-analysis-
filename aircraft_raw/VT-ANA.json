@@ -1,0 +1,27 @@
+[
+  {
+    "id": 14446,
+    "reg": "VT-ANA",
+    "active": true,
+    "serial": "36273",
+    "hexIcao": "8005EB",
+    "airlineName": "Air India",
+    "iataCodeShort": "788",
+    "icaoCode": "B788",
+    "model": "B788",
+    "modelCode": "B787-837",
+    "numSeats": 256,
+    "rolloutDate": "2014-01-09",
+    "firstFlightDate": "2014-01-09",
+    "deliveryDate": "2014-03-10",
+    "registrationDate": "2014-02-13",
+    "typeName": "Boeing 787-8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 11.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

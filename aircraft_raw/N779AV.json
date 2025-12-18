@@ -1,0 +1,25 @@
+[
+  {
+    "id": 31205,
+    "reg": "N779AV",
+    "active": true,
+    "serial": "8300",
+    "hexIcao": "AA8A8A",
+    "airlineName": "Avianca Costa Rica",
+    "iataCodeShort": "32N",
+    "icaoCode": "A20N",
+    "model": "A20N",
+    "modelCode": "320-251N",
+    "numSeats": 155,
+    "rolloutDate": "2018-07-13",
+    "registrationDate": "2018-07-24",
+    "typeName": "Airbus A320 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320 NEO",
+    "ageYears": 7.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

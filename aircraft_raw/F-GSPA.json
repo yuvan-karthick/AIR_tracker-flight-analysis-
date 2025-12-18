@@ -1,0 +1,27 @@
+[
+  {
+    "id": 9070,
+    "reg": "F-GSPA",
+    "active": true,
+    "serial": "29002",
+    "hexIcao": "3949E0",
+    "airlineName": "Air France",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B772",
+    "modelCode": "B777-228ER",
+    "numSeats": 312,
+    "rolloutDate": "1998-03-12",
+    "firstFlightDate": "1998-03-12",
+    "deliveryDate": "1998-03-27",
+    "registrationDate": "1998-03-27",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 27.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 22057,
+    "reg": "9V-TRU",
+    "active": true,
+    "serial": "5426",
+    "hexIcao": "76D255",
+    "airlineName": "Scoot",
+    "iataCodeShort": "320",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-232",
+    "numSeats": 180,
+    "rolloutDate": "2012-12-06",
+    "firstFlightDate": "2012-12-06",
+    "deliveryDate": "2012-12-22",
+    "registrationDate": "2019-01-11",
+    "typeName": "Airbus A320",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 13.0,
+    "verified": true,
+    "numRegistrations": 3
+  }
+]

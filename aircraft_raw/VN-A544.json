@@ -1,0 +1,27 @@
+[
+  {
+    "id": 25463,
+    "reg": "VN-A544",
+    "active": true,
+    "serial": "7055",
+    "hexIcao": "8881B0",
+    "airlineName": "VietJetAir",
+    "iataCodeShort": "321",
+    "icaoCode": "A321",
+    "model": "A321",
+    "modelCode": "321-211",
+    "numSeats": 220,
+    "rolloutDate": "2016-03-21",
+    "firstFlightDate": "2016-03-21",
+    "deliveryDate": "2016-03-30",
+    "registrationDate": "2020-01-11",
+    "typeName": "Airbus A321",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321",
+    "ageYears": 9.7,
+    "verified": true,
+    "numRegistrations": 4
+  }
+]

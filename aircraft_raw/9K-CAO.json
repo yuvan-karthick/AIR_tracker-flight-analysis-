@@ -1,0 +1,27 @@
+[
+  {
+    "id": 23745,
+    "reg": "9K-CAO",
+    "active": true,
+    "serial": "6124",
+    "hexIcao": "706202",
+    "airlineName": "Jazeera Airways",
+    "iataCodeShort": "320",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-214",
+    "numSeats": 165,
+    "rolloutDate": "2014-05-19",
+    "firstFlightDate": "2014-05-19",
+    "deliveryDate": "2014-05-28",
+    "registrationDate": "2014-05-28",
+    "typeName": "Airbus A320",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 11.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 19250,
+    "reg": "VT-GHK",
+    "active": true,
+    "serial": "43902",
+    "hexIcao": "800CD6",
+    "airlineName": "Air India Express",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "B737-86N",
+    "numSeats": 189,
+    "rolloutDate": "2018-08-28",
+    "firstFlightDate": "2018-08-28",
+    "deliveryDate": "2018-09-15",
+    "registrationDate": "2018-09-15",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 7.3,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

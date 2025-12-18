@@ -1,0 +1,27 @@
+[
+  {
+    "id": 19022,
+    "reg": "B-16718",
+    "active": true,
+    "serial": "43289",
+    "hexIcao": "8990E0",
+    "airlineName": "EVA Air",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-35EER",
+    "numSeats": 353,
+    "rolloutDate": "2014-03-15",
+    "firstFlightDate": "2014-03-15",
+    "deliveryDate": "2014-05-21",
+    "registrationDate": "2014-05-21",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 11.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

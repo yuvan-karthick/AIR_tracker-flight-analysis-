@@ -1,0 +1,26 @@
+[
+  {
+    "id": 24747,
+    "reg": "N2747U",
+    "active": true,
+    "serial": "64991",
+    "hexIcao": "A2B8B8",
+    "airlineName": "United Airlines",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-322ER",
+    "numSeats": 350,
+    "rolloutDate": "2018-03-30",
+    "firstFlightDate": "2018-03-31",
+    "registrationDate": "2018-04-20",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 7.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

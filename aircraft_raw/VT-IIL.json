@@ -1,0 +1,25 @@
+[
+  {
+    "id": 1751186,
+    "reg": "VT-IIL",
+    "active": true,
+    "serial": "10646",
+    "hexIcao": "80149C",
+    "airlineName": "IndiGo",
+    "iataCodeShort": "32N",
+    "icaoCode": "A20N",
+    "model": "A20N",
+    "modelCode": "320-251N",
+    "numSeats": 186,
+    "rolloutDate": "2021-11-05",
+    "registrationDate": "2021-11-29",
+    "typeName": "Airbus A320 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320 NEO",
+    "ageYears": 4.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 23812,
+    "reg": "JA795A",
+    "active": true,
+    "serial": "61514",
+    "hexIcao": "869560",
+    "airlineName": "ANA",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-381ER",
+    "numSeats": 212,
+    "rolloutDate": "2019-03-31",
+    "firstFlightDate": "2019-03-31",
+    "deliveryDate": "2019-07-01",
+    "registrationDate": "2019-07-01",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 6.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": 27057,
+    "reg": "VT-CIQ",
+    "active": true,
+    "serial": "8267",
+    "hexIcao": "800C89",
+    "airlineName": "Air India",
+    "iataCodeShort": "320",
+    "icaoCode": "A320",
+    "model": "A20N",
+    "modelCode": "320-251N",
+    "rolloutDate": "2018-06-27",
+    "firstFlightDate": "2018-06-27",
+    "deliveryDate": "2018-07-10",
+    "registrationDate": "2018-07-10",
+    "typeName": "Airbus A320",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 7.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

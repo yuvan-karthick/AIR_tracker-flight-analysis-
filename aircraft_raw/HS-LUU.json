@@ -1,0 +1,27 @@
+[
+  {
+    "id": 16117,
+    "reg": "HS-LUU",
+    "active": true,
+    "serial": "38681",
+    "hexIcao": "8832B5",
+    "airlineName": "Thai Lion Air",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "B737-8GP",
+    "numSeats": 189,
+    "rolloutDate": "2012-09-04",
+    "firstFlightDate": "2012-09-04",
+    "deliveryDate": "2012-09-17",
+    "registrationDate": "2017-05-19",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 13.3,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

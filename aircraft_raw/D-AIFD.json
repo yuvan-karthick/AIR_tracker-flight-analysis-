@@ -1,0 +1,27 @@
+[
+  {
+    "id": 16377,
+    "reg": "D-AIFD",
+    "active": true,
+    "serial": "390",
+    "hexIcao": "3C64C4",
+    "airlineName": "Lufthansa",
+    "iataCodeShort": "340",
+    "icaoCode": "A340",
+    "model": "A343",
+    "modelCode": "340-313X",
+    "numSeats": 279,
+    "rolloutDate": "2001-02-08",
+    "firstFlightDate": "2001-02-08",
+    "deliveryDate": "2001-03-16",
+    "registrationDate": "2001-03-16",
+    "typeName": "Airbus A340",
+    "numEngines": 4,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A340",
+    "ageYears": 24.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

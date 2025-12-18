@@ -1,0 +1,26 @@
+[
+  {
+    "id": 27482,
+    "reg": "VT-EXP",
+    "active": true,
+    "serial": "8682",
+    "hexIcao": "800CFE",
+    "airlineName": "Air India",
+    "iataCodeShort": "32A",
+    "icaoCode": "A320",
+    "model": "A20N",
+    "modelCode": "320-251N",
+    "rolloutDate": "2018-12-13",
+    "firstFlightDate": "2018-12-13",
+    "deliveryDate": "2018-12-28",
+    "registrationDate": "2018-12-28",
+    "typeName": "Airbus A320 (Sharklets)",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 7.0,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

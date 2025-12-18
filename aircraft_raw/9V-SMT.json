@@ -1,0 +1,42 @@
+[
+  {
+    "id": 3155,
+    "reg": "9V-SMT",
+    "active": true,
+    "serial": "170",
+    "hexIcao": "76CDB4",
+    "airlineName": "Singapore Airlines",
+    "iataCodeShort": "350",
+    "icaoCode": "A350",
+    "model": "A359",
+    "modelCode": "350-941",
+    "numSeats": 253,
+    "rolloutDate": "2017-12-06",
+    "firstFlightDate": "2017-12-06",
+    "deliveryDate": "2017-12-23",
+    "registrationDate": "2017-12-23",
+    "typeName": "Airbus A350",
+    "numEngines": 2,
+    "engineType": "Turboprop",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 8.0,
+    "verified": true,
+    "numRegistrations": 1
+  },
+  {
+    "id": 1747418,
+    "reg": "9V-SMT",
+    "active": false,
+    "serial": "27137",
+    "airlineName": "Singapore Airlines",
+    "modelCode": "B747-412BCF",
+    "rolloutDate": "1993-08-04",
+    "registrationDate": "1993-08-19",
+    "typeName": "Boeing 747-400",
+    "isFreighter": true,
+    "ageYears": 32.4,
+    "verified": true,
+    "numRegistrations": 3
+  }
+]

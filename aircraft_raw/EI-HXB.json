@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2133463,
+    "reg": "EI-HXB",
+    "active": true,
+    "serial": "11657",
+    "hexIcao": "4CAE18",
+    "airlineName": "SW Italia",
+    "iataCodeShort": "32Q",
+    "icaoCode": "A21N",
+    "model": "A21N",
+    "modelCode": "321-271NXLR",
+    "numSeats": 165,
+    "firstFlightDate": "2023-12-04",
+    "deliveryDate": "2023-12-15",
+    "registrationDate": "2023-12-15",
+    "typeName": "Airbus A321 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321 NEO",
+    "ageYears": 2.0,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

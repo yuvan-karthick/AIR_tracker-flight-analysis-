@@ -1,0 +1,27 @@
+[
+  {
+    "id": 7015,
+    "reg": "A6-EVK",
+    "active": true,
+    "serial": "260",
+    "hexIcao": "8964E2",
+    "airlineName": "Emirates",
+    "iataCodeShort": "380",
+    "icaoCode": "A380",
+    "model": "A388",
+    "modelCode": "380-842",
+    "numSeats": 516,
+    "rolloutDate": "2019-06-06",
+    "firstFlightDate": "2019-06-06",
+    "deliveryDate": "2019-12-21",
+    "registrationDate": "2019-12-20",
+    "typeName": "Airbus A380",
+    "numEngines": 4,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A380",
+    "ageYears": 6.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

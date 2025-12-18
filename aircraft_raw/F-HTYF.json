@@ -1,0 +1,25 @@
+[
+  {
+    "id": 52576,
+    "reg": "F-HTYF",
+    "active": true,
+    "serial": "422",
+    "hexIcao": "39CF05",
+    "airlineName": "Air France",
+    "iataCodeShort": "359",
+    "icaoCode": "A359",
+    "model": "A359",
+    "modelCode": "350-941",
+    "numSeats": 324,
+    "rolloutDate": "2020-06-03",
+    "registrationDate": "2020-07-10",
+    "typeName": "Airbus A350-900",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 5.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

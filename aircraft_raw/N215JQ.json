@@ -1,0 +1,42 @@
+[
+  {
+    "id": 31568,
+    "reg": "N215JQ",
+    "active": true,
+    "serial": "17000270",
+    "hexIcao": "A1CCEC",
+    "airlineName": "Republic Airways",
+    "iataCodeShort": "E75",
+    "icaoCode": "E175",
+    "model": "E175",
+    "modelCode": "175LR",
+    "registrationDate": "2017-01-31",
+    "typeName": "Embraer 175",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Embraer ERJ170",
+    "verified": true,
+    "numRegistrations": 2
+  },
+  {
+    "id": 31568,
+    "reg": "N215JQ",
+    "active": true,
+    "serial": "17000270",
+    "hexIcao": "A1CCEC",
+    "airlineName": "Republic Airways",
+    "iataCodeShort": "E75",
+    "icaoCode": "E175",
+    "model": "E175",
+    "modelCode": "175LR",
+    "registrationDate": "2017-01-31",
+    "typeName": "Embraer 175",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Embraer ERJ170",
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

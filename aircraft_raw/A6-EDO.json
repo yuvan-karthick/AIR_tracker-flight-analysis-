@@ -1,0 +1,27 @@
+[
+  {
+    "id": 22832,
+    "reg": "A6-EDO",
+    "active": true,
+    "serial": "57",
+    "hexIcao": "8960F0",
+    "airlineName": "Emirates",
+    "iataCodeShort": "388",
+    "icaoCode": "A388",
+    "model": "A388",
+    "modelCode": "380-861",
+    "numSeats": 517,
+    "rolloutDate": "2010-05-26",
+    "firstFlightDate": "2010-05-26",
+    "deliveryDate": "2010-11-30",
+    "registrationDate": "2010-11-30",
+    "typeName": "Airbus A380-800",
+    "numEngines": 4,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A380",
+    "ageYears": 15.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

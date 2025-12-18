@@ -1,0 +1,26 @@
+[
+  {
+    "id": 17511,
+    "reg": "HP-1831CMP",
+    "active": true,
+    "serial": "40788",
+    "hexIcao": "0C208E",
+    "airlineName": "Copa Airlines",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "B737-8V3",
+    "rolloutDate": "2013-03-22",
+    "firstFlightDate": "2013-03-22",
+    "deliveryDate": "2013-04-03",
+    "registrationDate": "2013-04-03",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 12.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

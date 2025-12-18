@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2145320,
+    "reg": "VT-BWP",
+    "active": true,
+    "serial": "63290",
+    "hexIcao": "80177B",
+    "airlineName": "Air India Express",
+    "iataCodeShort": "7M8",
+    "icaoCode": "B38M",
+    "model": "B38M",
+    "modelCode": "737-8MAX",
+    "numSeats": 178,
+    "firstFlightDate": "2019-06-28",
+    "deliveryDate": "2025-04-20",
+    "registrationDate": "2025-04-20",
+    "typeName": "Boeing 737 MAX 8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 MAX",
+    "ageYears": 6.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

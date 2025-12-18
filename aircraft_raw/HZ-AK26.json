@@ -1,0 +1,27 @@
+[
+  {
+    "id": 18592,
+    "reg": "HZ-AK26",
+    "active": true,
+    "serial": "42264",
+    "hexIcao": "710104",
+    "airlineName": "Saudi Arabian Airlines",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-368ER",
+    "numSeats": 381,
+    "rolloutDate": "2015-03-11",
+    "firstFlightDate": "2015-03-11",
+    "deliveryDate": "2015-03-31",
+    "registrationDate": "2015-03-31",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 10.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

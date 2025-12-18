@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2133801,
+    "reg": "OE-LPL",
+    "active": true,
+    "serial": "62735",
+    "hexIcao": "44012F",
+    "airlineName": "Austrian",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "787-9",
+    "numSeats": 294,
+    "firstFlightDate": "2019-11-04",
+    "deliveryDate": "2020-01-15",
+    "registrationDate": "2024-05-14",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 6.1,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

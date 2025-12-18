@@ -1,0 +1,27 @@
+[
+  {
+    "id": 3846,
+    "reg": "9N-ALY",
+    "active": true,
+    "serial": "1872",
+    "hexIcao": "70AA75",
+    "airlineName": "Nepal Airlines",
+    "iataCodeShort": "330",
+    "icaoCode": "A330",
+    "model": "A332",
+    "modelCode": "330-243",
+    "numSeats": 274,
+    "rolloutDate": "2018-05-18",
+    "firstFlightDate": "2018-05-18",
+    "deliveryDate": "2018-06-27",
+    "registrationDate": "2018-06-27",
+    "typeName": "Airbus A330",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "ageYears": 7.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

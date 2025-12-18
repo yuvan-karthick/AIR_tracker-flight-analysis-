@@ -1,0 +1,26 @@
+[
+  {
+    "id": 23835,
+    "reg": "9M-AJP",
+    "active": true,
+    "serial": "6158",
+    "hexIcao": "7503C8",
+    "airlineName": "AirAsia",
+    "iataCodeShort": "32A",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-216",
+    "rolloutDate": "2014-06-02",
+    "firstFlightDate": "2014-06-02",
+    "deliveryDate": "2014-07-03",
+    "registrationDate": "2014-07-03",
+    "typeName": "Airbus A320 (Sharklets)",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 11.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

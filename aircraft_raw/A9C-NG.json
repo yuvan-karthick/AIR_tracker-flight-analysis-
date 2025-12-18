@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2133129,
+    "reg": "A9C-NG",
+    "active": true,
+    "serial": "11503",
+    "hexIcao": "8940C9",
+    "airlineName": "Gulf Air",
+    "iataCodeShort": "32Q",
+    "icaoCode": "A21N",
+    "model": "A21N",
+    "modelCode": "321-253NXLR",
+    "numSeats": 166,
+    "firstFlightDate": "2023-09-15",
+    "deliveryDate": "2023-09-28",
+    "registrationDate": "2023-09-28",
+    "typeName": "Airbus A321 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321 NEO",
+    "ageYears": 2.3,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

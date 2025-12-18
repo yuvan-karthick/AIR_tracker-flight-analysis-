@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1003,
+    "reg": "HB-JHH",
+    "active": true,
+    "serial": "1145",
+    "hexIcao": "4B1881",
+    "airlineName": "Delta Air Lines",
+    "iataCodeShort": "330",
+    "icaoCode": "A330",
+    "model": "A333",
+    "modelCode": "330-343X",
+    "numSeats": 236,
+    "rolloutDate": "2010-07-27",
+    "firstFlightDate": "2010-07-27",
+    "deliveryDate": "2010-08-13",
+    "registrationDate": "2010-08-13",
+    "typeName": "Airbus A330",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "ageYears": 15.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

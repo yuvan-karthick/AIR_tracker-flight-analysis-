@@ -1,0 +1,27 @@
+[
+  {
+    "id": 3412,
+    "reg": "N826NW",
+    "active": true,
+    "serial": "1701",
+    "hexIcao": "AB4866",
+    "airlineName": "Delta Air Lines",
+    "iataCodeShort": "330",
+    "icaoCode": "A330",
+    "model": "A333",
+    "modelCode": "330-302",
+    "numSeats": 293,
+    "rolloutDate": "2016-01-15",
+    "firstFlightDate": "2016-01-15",
+    "deliveryDate": "2016-01-30",
+    "registrationDate": "2016-01-30",
+    "typeName": "Airbus A330",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "ageYears": 9.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

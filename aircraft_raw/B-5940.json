@@ -1,0 +1,27 @@
+[
+  {
+    "id": 2614,
+    "reg": "B-5940",
+    "active": true,
+    "serial": "1519",
+    "hexIcao": "780BDA",
+    "airlineName": "China Southern Airlines",
+    "iataCodeShort": "333",
+    "icaoCode": "A333",
+    "model": "A333",
+    "modelCode": "330-323E",
+    "numSeats": 283,
+    "rolloutDate": "2014-03-14",
+    "firstFlightDate": "2014-03-14",
+    "deliveryDate": "2014-04-18",
+    "registrationDate": "2014-04-18",
+    "typeName": "Airbus A330-300",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "ageYears": 11.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

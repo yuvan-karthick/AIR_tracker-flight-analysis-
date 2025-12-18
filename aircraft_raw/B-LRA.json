@@ -1,0 +1,25 @@
+[
+  {
+    "id": 183131,
+    "reg": "B-LRA",
+    "active": true,
+    "serial": "29",
+    "hexIcao": "780A9B",
+    "airlineName": "Cathay Pacific",
+    "iataCodeShort": "359",
+    "icaoCode": "A359",
+    "model": "A359",
+    "modelCode": "350-941",
+    "numSeats": 280,
+    "rolloutDate": "2016-03-24",
+    "registrationDate": "2016-05-28",
+    "typeName": "Airbus A350-900",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 9.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

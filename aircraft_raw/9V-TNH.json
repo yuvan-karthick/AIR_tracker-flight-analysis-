@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2145787,
+    "reg": "9V-TNH",
+    "active": true,
+    "serial": "12677",
+    "hexIcao": "76D1C8",
+    "airlineName": "Scoot",
+    "iataCodeShort": "32N",
+    "icaoCode": "A20N",
+    "model": "A20N",
+    "modelCode": "320-271N",
+    "numSeats": 186,
+    "deliveryDate": "2025-07-22",
+    "registrationDate": "2025-07-22",
+    "typeName": "Airbus A320 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320 NEO",
+    "ageYears": 0.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

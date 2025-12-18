@@ -1,0 +1,27 @@
+[
+  {
+    "id": 12989,
+    "reg": "VT-SLJ",
+    "active": true,
+    "serial": "34273",
+    "hexIcao": "800BCC",
+    "airlineName": "SpiceJet",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "737-8EH",
+    "numSeats": 189,
+    "rolloutDate": "2007-12-04",
+    "firstFlightDate": "2007-12-04",
+    "deliveryDate": "2007-12-17",
+    "registrationDate": "2016-07-12",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 18.0,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

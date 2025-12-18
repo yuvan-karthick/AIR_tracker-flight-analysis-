@@ -1,0 +1,41 @@
+[
+  {
+    "id": 31630,
+    "reg": "9K-AKM",
+    "active": false,
+    "hexIcao": "706064",
+    "airlineName": "Kuwait Airways",
+    "iataCodeShort": "332",
+    "icaoCode": "A332",
+    "typeName": "Airbus A330-200",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "verified": false,
+    "numRegistrations": 1
+  },
+  {
+    "id": 182487,
+    "reg": "9K-AKM",
+    "active": true,
+    "serial": "9119",
+    "hexIcao": "706064",
+    "airlineName": "Kuwait Airways",
+    "iataCodeShort": "32N",
+    "icaoCode": "A20N",
+    "model": "A20N",
+    "modelCode": "320-251N",
+    "numSeats": 134,
+    "rolloutDate": "2020-01-16",
+    "registrationDate": "2020-01-24",
+    "typeName": "Airbus A320 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320 NEO",
+    "ageYears": 5.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

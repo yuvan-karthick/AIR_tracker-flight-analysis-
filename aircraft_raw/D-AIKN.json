@@ -1,0 +1,27 @@
+[
+  {
+    "id": 27982,
+    "reg": "D-AIKN",
+    "active": true,
+    "serial": "922",
+    "hexIcao": "3C656E",
+    "airlineName": "Lufthansa",
+    "iataCodeShort": "333",
+    "icaoCode": "A333",
+    "model": "A333",
+    "modelCode": "330-343X",
+    "numSeats": 255,
+    "rolloutDate": "2008-04-17",
+    "firstFlightDate": "2008-04-17",
+    "deliveryDate": "2008-05-22",
+    "registrationDate": "2008-05-22",
+    "typeName": "Airbus A330-300",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "ageYears": 17.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

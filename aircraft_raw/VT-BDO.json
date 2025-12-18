@@ -1,0 +1,26 @@
+[
+  {
+    "id": 7493,
+    "reg": "VT-BDO",
+    "active": true,
+    "serial": "26962",
+    "hexIcao": "800728",
+    "airlineName": "Blue Dart Aviation",
+    "iataCodeShort": "752",
+    "icaoCode": "B752",
+    "model": "B752",
+    "modelCode": "B757-204PCF",
+    "rolloutDate": "1992-03-20",
+    "firstFlightDate": "1992-03-30",
+    "deliveryDate": "1992-04-10",
+    "registrationDate": "2012-07-10",
+    "typeName": "Boeing 757-200",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": true,
+    "productionLine": "Boeing 757",
+    "ageYears": 33.7,
+    "verified": true,
+    "numRegistrations": 5
+  }
+]

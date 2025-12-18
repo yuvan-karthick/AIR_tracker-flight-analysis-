@@ -1,0 +1,25 @@
+[
+  {
+    "id": 53983,
+    "reg": "VT-VTZ",
+    "active": true,
+    "serial": "4379",
+    "hexIcao": "800CE4",
+    "airlineName": "AIX Connect",
+    "iataCodeShort": "320",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-214",
+    "numSeats": 180,
+    "rolloutDate": "2010-07-12",
+    "registrationDate": "2018-09-04",
+    "typeName": "Airbus A320",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 15.4,
+    "verified": true,
+    "numRegistrations": 3
+  }
+]

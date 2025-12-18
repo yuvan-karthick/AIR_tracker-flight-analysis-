@@ -1,0 +1,27 @@
+[
+  {
+    "id": 15081,
+    "reg": "9V-OJB",
+    "active": true,
+    "serial": "37113",
+    "hexIcao": "76BD42",
+    "airlineName": "Scoot",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "B787-9",
+    "numSeats": 375,
+    "rolloutDate": "2015-02-21",
+    "firstFlightDate": "2015-02-21",
+    "deliveryDate": "2015-03-05",
+    "registrationDate": "2015-03-05",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 10.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

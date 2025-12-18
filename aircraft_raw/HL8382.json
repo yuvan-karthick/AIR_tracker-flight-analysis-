@@ -1,0 +1,25 @@
+[
+  {
+    "id": 86851,
+    "reg": "HL8382",
+    "active": true,
+    "serial": "389",
+    "hexIcao": "71C382",
+    "airlineName": "Asiana Airlines",
+    "iataCodeShort": "359",
+    "icaoCode": "A359",
+    "model": "A359",
+    "modelCode": "350-941",
+    "numSeats": 311,
+    "rolloutDate": "2020-02-11",
+    "registrationDate": "2020-11-24",
+    "typeName": "Airbus A350-900",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 5.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

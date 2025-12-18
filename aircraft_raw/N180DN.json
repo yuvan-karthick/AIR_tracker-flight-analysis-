@@ -1,0 +1,27 @@
+[
+  {
+    "id": 7004,
+    "reg": "N180DN",
+    "active": true,
+    "serial": "25985",
+    "hexIcao": "A14104",
+    "airlineName": "Delta Air Lines",
+    "iataCodeShort": "763",
+    "icaoCode": "B763",
+    "model": "B763",
+    "modelCode": "B767-332ER",
+    "numSeats": 226,
+    "rolloutDate": "1992-04-13",
+    "firstFlightDate": "1992-04-13",
+    "deliveryDate": "1992-04-25",
+    "registrationDate": "1992-04-25",
+    "typeName": "Boeing 767-300",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 767",
+    "ageYears": 33.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

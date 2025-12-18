@@ -1,0 +1,146 @@
+{
+  "departures": [
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-13 01:12Z",
+          "local": "2025-10-13 02:12+01:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-13 01:12Z",
+          "local": "2025-10-13 02:12+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "KSEA",
+          "iata": "SEA",
+          "name": "Seattle",
+          "timeZone": "America/Los_Angeles"
+        },
+        "quality": []
+      },
+      "number": "9E 21",
+      "callSign": "EDV21",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "N401DZ",
+        "modeS": "A4B0BB",
+        "model": "Airbus A330"
+      },
+      "airline": {
+        "name": "Endeavor Air",
+        "iata": "9E",
+        "icao": "EDV"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTime": {
+          "utc": "2025-10-13 01:12Z",
+          "local": "2025-10-13 02:12+01:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-13 01:12Z",
+          "local": "2025-10-13 02:12+01:00"
+        },
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "KSEA",
+          "iata": "SEA",
+          "name": "Seattle",
+          "timeZone": "America/Los_Angeles"
+        },
+        "quality": []
+      },
+      "number": "DL 21",
+      "callSign": "DAL21",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "N401DZ",
+        "modeS": "A4B0BB",
+        "model": "Airbus A330"
+      },
+      "airline": {
+        "name": "Delta Air Lines",
+        "iata": "DL",
+        "icao": "DAL"
+      }
+    }
+  ],
+  "arrivals": [
+    {
+      "departure": {
+        "airport": {
+          "icao": "YPPH",
+          "iata": "PER",
+          "name": "Perth",
+          "timeZone": "Australia/Perth"
+        },
+        "scheduledTime": {
+          "utc": "2025-10-12 10:35Z",
+          "local": "2025-10-12 18:35+08:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-12 10:50Z",
+          "local": "2025-10-12 18:50+08:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-12 10:50Z",
+          "local": "2025-10-12 18:50+08:00"
+        },
+        "terminal": "4",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTime": {
+          "utc": "2025-10-13 04:05Z",
+          "local": "2025-10-13 05:05+01:00"
+        },
+        "revisedTime": {
+          "utc": "2025-10-13 03:41Z",
+          "local": "2025-10-13 04:41+01:00"
+        },
+        "runwayTime": {
+          "utc": "2025-10-13 03:41Z",
+          "local": "2025-10-13 04:41+01:00"
+        },
+        "terminal": "3",
+        "baggageBelt": "06",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "QF 9",
+      "callSign": "QFA9",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "VH-ZNM",
+        "modeS": "7C8070",
+        "model": "Boeing 787-9"
+      },
+      "airline": {
+        "name": "Qantas",
+        "iata": "QF",
+        "icao": "QFA"
+      }
+    }
+  ]
+}

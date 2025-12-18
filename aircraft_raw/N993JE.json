@@ -1,0 +1,27 @@
+[
+  {
+    "id": 26922,
+    "reg": "N993JE",
+    "active": true,
+    "serial": "8143",
+    "hexIcao": "ADDE95",
+    "airlineName": "JetBlue Airways",
+    "iataCodeShort": "321",
+    "icaoCode": "A321",
+    "model": "A321",
+    "modelCode": "321-231",
+    "numSeats": 159,
+    "rolloutDate": "2018-03-15",
+    "firstFlightDate": "2018-03-15",
+    "deliveryDate": "2018-03-23",
+    "registrationDate": "2018-03-23",
+    "typeName": "Airbus A321",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321",
+    "ageYears": 7.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

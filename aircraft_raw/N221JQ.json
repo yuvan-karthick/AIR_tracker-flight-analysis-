@@ -1,0 +1,24 @@
+[
+  {
+    "id": 30819,
+    "reg": "N221JQ",
+    "active": true,
+    "serial": "17000197",
+    "hexIcao": "A1E58F",
+    "airlineName": "Republic Airways",
+    "iataCodeShort": "E75",
+    "icaoCode": "E175",
+    "model": "E175",
+    "modelCode": "175LR",
+    "deliveryDate": "2007-12-11",
+    "registrationDate": "2020-03-19",
+    "typeName": "Embraer 175",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Embraer ERJ170",
+    "ageYears": 18.0,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

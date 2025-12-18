@@ -1,0 +1,27 @@
+[
+  {
+    "id": 14485,
+    "reg": "VT-ALK",
+    "active": true,
+    "serial": "36309",
+    "hexIcao": "8003E3",
+    "airlineName": "Air India",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "777-337ER",
+    "numSeats": 342,
+    "rolloutDate": "2007-10-16",
+    "firstFlightDate": "2007-10-16",
+    "deliveryDate": "2007-10-30",
+    "registrationDate": "2007-10-30",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 18.2,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

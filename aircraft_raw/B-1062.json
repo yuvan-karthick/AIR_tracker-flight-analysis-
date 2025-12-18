@@ -1,0 +1,27 @@
+[
+  {
+    "id": 3787,
+    "reg": "B-1062",
+    "active": true,
+    "serial": "1846",
+    "hexIcao": "781362",
+    "airlineName": "China Southern Airlines",
+    "iataCodeShort": "330",
+    "icaoCode": "A330",
+    "model": "A333",
+    "modelCode": "330-343E",
+    "numSeats": 286,
+    "rolloutDate": "2018-01-11",
+    "firstFlightDate": "2018-01-11",
+    "deliveryDate": "2018-03-27",
+    "registrationDate": "2018-03-27",
+    "typeName": "Airbus A330",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "ageYears": 7.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

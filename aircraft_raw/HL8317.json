@@ -1,0 +1,27 @@
+[
+  {
+    "id": 24588,
+    "reg": "HL8317",
+    "active": true,
+    "serial": "64178",
+    "hexIcao": "71C317",
+    "airlineName": "Jeju Air",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "B737-8LC",
+    "numSeats": 189,
+    "rolloutDate": "2018-08-13",
+    "firstFlightDate": "2018-08-13",
+    "deliveryDate": "2018-08-22",
+    "registrationDate": "2018-08-22",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 7.3,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

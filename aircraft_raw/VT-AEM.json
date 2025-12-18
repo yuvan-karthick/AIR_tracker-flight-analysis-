@@ -1,0 +1,27 @@
+[
+  {
+    "id": 16804,
+    "reg": "VT-AEM",
+    "active": true,
+    "serial": "39686",
+    "hexIcao": "8015A5",
+    "airlineName": "Air India",
+    "iataCodeShort": "773",
+    "icaoCode": "B773",
+    "model": "B773",
+    "modelCode": "777-3FXER",
+    "numSeats": 330,
+    "rolloutDate": "2012-05-30",
+    "firstFlightDate": "2012-05-30",
+    "deliveryDate": "2012-06-28",
+    "registrationDate": "2024-02-14",
+    "typeName": "Boeing 777-300",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 13.5,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

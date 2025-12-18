@@ -1,0 +1,36 @@
+[
+  {
+    "id": 30979,
+    "reg": "N401DZ",
+    "active": false,
+    "hexIcao": "A4B0BB",
+    "airlineName": "Delta Air Lines",
+    "typeName": "Airbus A330-900 NEO",
+    "isFreighter": false,
+    "verified": false,
+    "numRegistrations": 1
+  },
+  {
+    "id": 1748408,
+    "reg": "N401DZ",
+    "active": true,
+    "serial": "1915",
+    "hexIcao": "A4B0BB",
+    "airlineName": "Delta Air Lines",
+    "iataCodeShort": "330",
+    "icaoCode": "A330",
+    "model": "A330",
+    "modelCode": "330-941N",
+    "numSeats": 281,
+    "rolloutDate": "2019-05-07",
+    "registrationDate": "2019-05-23",
+    "typeName": "Airbus A330",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A330",
+    "ageYears": 6.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

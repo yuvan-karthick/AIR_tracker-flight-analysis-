@@ -1,0 +1,25 @@
+[
+  {
+    "id": 29810,
+    "reg": "A7-ANN",
+    "active": true,
+    "serial": "356",
+    "hexIcao": "06A12A",
+    "airlineName": "Qatar Airways",
+    "iataCodeShort": "351",
+    "icaoCode": "A35K",
+    "model": "A35K",
+    "modelCode": "350-1041",
+    "numSeats": 327,
+    "rolloutDate": "2019-11-22",
+    "registrationDate": "2019-12-20",
+    "typeName": "Airbus A350-1000",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 6.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

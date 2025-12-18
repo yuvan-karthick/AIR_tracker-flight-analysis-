@@ -1,0 +1,27 @@
+[
+  {
+    "id": 17173,
+    "reg": "A6-FEC",
+    "active": true,
+    "serial": "40256",
+    "hexIcao": "896334",
+    "airlineName": "flydubai",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "B737-8KN",
+    "numSeats": 174,
+    "rolloutDate": "2012-11-02",
+    "firstFlightDate": "2012-11-02",
+    "deliveryDate": "2012-11-13",
+    "registrationDate": "2012-11-13",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 13.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

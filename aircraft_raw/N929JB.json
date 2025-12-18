@@ -1,0 +1,27 @@
+[
+  {
+    "id": 23420,
+    "reg": "N929JB",
+    "active": true,
+    "serial": "6031",
+    "hexIcao": "ACE063",
+    "airlineName": "JetBlue Airways",
+    "iataCodeShort": "32B",
+    "icaoCode": "A321",
+    "model": "A321",
+    "modelCode": "321-231",
+    "numSeats": 190,
+    "rolloutDate": "2014-04-09",
+    "firstFlightDate": "2014-04-09",
+    "deliveryDate": "2014-04-17",
+    "registrationDate": "2014-04-17",
+    "typeName": "Airbus A321 (Sharklets)",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321",
+    "ageYears": 11.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 16588,
+    "reg": "VT-AEI",
+    "active": false,
+    "serial": "39254",
+    "hexIcao": "80153B",
+    "airlineName": "Air India",
+    "iataCodeShort": "772",
+    "icaoCode": "B772",
+    "model": "B772",
+    "modelCode": "777-232LR",
+    "numSeats": 288,
+    "rolloutDate": "2009-05-13",
+    "firstFlightDate": "2009-05-13",
+    "deliveryDate": "2009-06-05",
+    "registrationDate": "2023-06-14",
+    "typeName": "Boeing 777-200",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 16.6,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

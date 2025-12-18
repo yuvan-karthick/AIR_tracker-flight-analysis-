@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2133527,
+    "reg": "VT-JRI",
+    "active": true,
+    "serial": "594",
+    "hexIcao": "801665",
+    "airlineName": "Air India",
+    "iataCodeShort": "359",
+    "icaoCode": "A359",
+    "model": "A359",
+    "modelCode": "350-941",
+    "numSeats": 316,
+    "deliveryDate": "2024-05-13",
+    "registrationDate": "2024-05-13",
+    "typeName": "Airbus A350-900",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A350",
+    "ageYears": 1.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

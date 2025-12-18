@@ -1,0 +1,27 @@
+[
+  {
+    "id": 22875,
+    "reg": "VT-IFS",
+    "active": true,
+    "serial": "5727",
+    "hexIcao": "8007CF",
+    "airlineName": "IndiGo",
+    "iataCodeShort": "32A",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-232",
+    "numSeats": 180,
+    "rolloutDate": "2013-08-08",
+    "firstFlightDate": "2013-08-08",
+    "deliveryDate": "2013-08-29",
+    "registrationDate": "2013-08-29",
+    "typeName": "Airbus A320 (Sharklets)",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 12.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

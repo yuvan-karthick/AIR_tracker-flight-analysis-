@@ -1,0 +1,26 @@
+[
+  {
+    "id": 19416,
+    "reg": "TF-ICE",
+    "active": true,
+    "serial": "44353",
+    "hexIcao": "4CC50E",
+    "airlineName": "Icelandair",
+    "iataCodeShort": "737",
+    "model": "B738",
+    "modelCode": "B737-8MAX",
+    "numSeats": 160,
+    "rolloutDate": "2018-02-07",
+    "firstFlightDate": "2018-02-07",
+    "deliveryDate": "2018-02-28",
+    "registrationDate": "2018-03-03",
+    "typeName": "Boeing 737",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737",
+    "ageYears": 7.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

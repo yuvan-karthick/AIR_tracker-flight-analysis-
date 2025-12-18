@@ -1,0 +1,27 @@
+[
+  {
+    "id": 18043,
+    "reg": "B-KQF",
+    "active": true,
+    "serial": "41428",
+    "hexIcao": "780A38",
+    "airlineName": "Cathay Pacific",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-367ER",
+    "numSeats": 368,
+    "rolloutDate": "2013-04-27",
+    "firstFlightDate": "2013-04-27",
+    "deliveryDate": "2013-05-20",
+    "registrationDate": "2013-05-20",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 12.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,25 @@
+[
+  {
+    "id": 2114481,
+    "reg": "ET-ANQ",
+    "active": true,
+    "serial": "40773",
+    "hexIcao": "040032",
+    "airlineName": "Ethiopian Airlines",
+    "iataCodeShort": "772",
+    "icaoCode": "B772",
+    "model": "B772",
+    "modelCode": "B777-260LR",
+    "numSeats": 315,
+    "rolloutDate": "2011-04-11",
+    "registrationDate": "2011-04-27",
+    "typeName": "Boeing 777-200",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 14.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

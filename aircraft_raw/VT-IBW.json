@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2132970,
+    "reg": "VT-IBW",
+    "active": true,
+    "serial": "11404",
+    "hexIcao": "8015E6",
+    "airlineName": "IndiGo",
+    "iataCodeShort": "32Q",
+    "icaoCode": "A21N",
+    "model": "A21N",
+    "modelCode": "321-252NX",
+    "numSeats": 232,
+    "firstFlightDate": "2023-07-19",
+    "deliveryDate": "2023-08-16",
+    "registrationDate": "2023-08-16",
+    "typeName": "Airbus A321 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321 NEO",
+    "ageYears": 2.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

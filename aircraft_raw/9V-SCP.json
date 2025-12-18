@@ -1,0 +1,27 @@
+[
+  {
+    "id": 105529,
+    "reg": "9V-SCP",
+    "active": true,
+    "serial": "60266",
+    "hexIcao": "76CC70",
+    "airlineName": "Singapore Airlines",
+    "iataCodeShort": "781",
+    "icaoCode": "B781",
+    "model": "B781",
+    "modelCode": "787-10",
+    "numSeats": 278,
+    "rolloutDate": "2020-04-03",
+    "firstFlightDate": "2020-04-03",
+    "deliveryDate": "2023-10-28",
+    "registrationDate": "2023-10-28",
+    "typeName": "Boeing 787-10",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 5.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 18577,
+    "reg": "9V-SNC",
+    "active": true,
+    "serial": "42242",
+    "hexIcao": "76CDC3",
+    "airlineName": "Singapore Airlines",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-312ER",
+    "numSeats": 264,
+    "rolloutDate": "2015-11-06",
+    "firstFlightDate": "2015-11-06",
+    "deliveryDate": "2015-11-25",
+    "registrationDate": "2015-11-25",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 10.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

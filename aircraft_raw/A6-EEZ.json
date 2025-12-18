@@ -1,0 +1,27 @@
+[
+  {
+    "id": 2863,
+    "reg": "A6-EEZ",
+    "active": true,
+    "serial": "158",
+    "hexIcao": "896199",
+    "airlineName": "Emirates",
+    "iataCodeShort": "380",
+    "icaoCode": "A380",
+    "model": "A388",
+    "modelCode": "380-861",
+    "numSeats": 517,
+    "rolloutDate": "2014-03-24",
+    "firstFlightDate": "2014-03-24",
+    "deliveryDate": "2014-08-22",
+    "registrationDate": "2014-08-22",
+    "typeName": "Airbus A380",
+    "numEngines": 4,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A380",
+    "ageYears": 11.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

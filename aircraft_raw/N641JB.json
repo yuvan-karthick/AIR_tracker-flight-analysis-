@@ -1,0 +1,27 @@
+[
+  {
+    "id": 8607,
+    "reg": "N641JB",
+    "active": true,
+    "serial": "2848",
+    "hexIcao": "A869BC",
+    "airlineName": "JetBlue Airways",
+    "iataCodeShort": "320",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-232",
+    "numSeats": 162,
+    "rolloutDate": "2006-07-07",
+    "firstFlightDate": "2006-07-24",
+    "deliveryDate": "2006-08-03",
+    "registrationDate": "2006-08-03",
+    "typeName": "Airbus A320",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 19.4,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

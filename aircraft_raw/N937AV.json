@@ -1,0 +1,27 @@
+[
+  {
+    "id": 108051,
+    "reg": "N937AV",
+    "active": true,
+    "serial": "10394",
+    "hexIcao": "ACFFBE",
+    "airlineName": "Avianca",
+    "iataCodeShort": "32N",
+    "icaoCode": "A20N",
+    "model": "A20N",
+    "modelCode": "320-251N",
+    "numSeats": 180,
+    "rolloutDate": "2021-03-10",
+    "firstFlightDate": "2021-03-10",
+    "deliveryDate": "2021-09-05",
+    "registrationDate": "2021-09-05",
+    "typeName": "Airbus A320 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320 NEO",
+    "ageYears": 4.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

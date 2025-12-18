@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2145453,
+    "reg": "PH-BKR",
+    "active": true,
+    "serial": "42494",
+    "hexIcao": "486073",
+    "airlineName": "KLM",
+    "iataCodeShort": "781",
+    "icaoCode": "B781",
+    "model": "B781",
+    "modelCode": "787-10",
+    "numSeats": 318,
+    "firstFlightDate": "2025-08-26",
+    "deliveryDate": "2025-09-12",
+    "registrationDate": "2025-09-12",
+    "typeName": "Boeing 787-10",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 0.3,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

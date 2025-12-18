@@ -1,0 +1,27 @@
+[
+  {
+    "id": 13034,
+    "reg": "B-1368",
+    "active": true,
+    "serial": "34318",
+    "hexIcao": "7812CF",
+    "airlineName": "Air China",
+    "iataCodeShort": "789",
+    "icaoCode": "B789",
+    "model": "B789",
+    "modelCode": "B787-9",
+    "numSeats": 293,
+    "rolloutDate": "2018-02-01",
+    "firstFlightDate": "2018-02-01",
+    "deliveryDate": "2018-02-08",
+    "registrationDate": "2018-02-08",
+    "typeName": "Boeing 787-9",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 7.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

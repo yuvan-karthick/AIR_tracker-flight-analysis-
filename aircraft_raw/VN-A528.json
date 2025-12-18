@@ -1,0 +1,26 @@
+[
+  {
+    "id": 2122461,
+    "reg": "VN-A528",
+    "active": true,
+    "serial": "10380",
+    "hexIcao": "8881D9",
+    "airlineName": "VietJetAir",
+    "iataCodeShort": "32Q",
+    "icaoCode": "A21N",
+    "model": "A21N",
+    "modelCode": "321-271NX",
+    "numSeats": 240,
+    "firstFlightDate": "2023-02-21",
+    "deliveryDate": "2023-05-11",
+    "registrationDate": "2023-05-11",
+    "typeName": "Airbus A321 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A321 NEO",
+    "ageYears": 2.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "id": 2145657,
+    "reg": "D-AALZ",
+    "active": true,
+    "serial": "68147",
+    "hexIcao": "3C459A",
+    "airlineName": "AeroLogic",
+    "modelCode": "777-F",
+    "deliveryDate": "2025-06-27",
+    "registrationDate": "2025-06-27",
+    "typeName": "Boeing 777",
+    "isFreighter": true,
+    "ageYears": 0.5,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

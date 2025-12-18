@@ -1,0 +1,27 @@
+[
+  {
+    "id": 53999,
+    "reg": "HS-LGS",
+    "active": true,
+    "serial": "39876",
+    "hexIcao": "8830F3",
+    "airlineName": "Thai Lion Air",
+    "iataCodeShort": "738",
+    "icaoCode": "B738",
+    "model": "B738",
+    "modelCode": "737-8GP",
+    "numSeats": 189,
+    "rolloutDate": "2015-12-22",
+    "firstFlightDate": "2015-12-22",
+    "deliveryDate": "2016-01-13",
+    "registrationDate": "2024-09-24",
+    "typeName": "Boeing 737-800",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 737 NG",
+    "ageYears": 10.0,
+    "verified": true,
+    "numRegistrations": 2
+  }
+]

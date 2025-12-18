@@ -1,0 +1,27 @@
+[
+  {
+    "id": 14454,
+    "reg": "VT-ANE",
+    "active": true,
+    "serial": "36280",
+    "hexIcao": "8005EF",
+    "airlineName": "Air India",
+    "iataCodeShort": "788",
+    "icaoCode": "B788",
+    "model": "B788",
+    "modelCode": "787-8",
+    "numSeats": 256,
+    "rolloutDate": "2013-11-07",
+    "firstFlightDate": "2013-11-07",
+    "deliveryDate": "2013-12-04",
+    "registrationDate": "2013-12-04",
+    "typeName": "Boeing 787-8",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 787",
+    "ageYears": 12.1,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

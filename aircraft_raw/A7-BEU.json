@@ -1,0 +1,27 @@
+[
+  {
+    "id": 24813,
+    "reg": "A7-BEU",
+    "active": true,
+    "serial": "65302",
+    "hexIcao": "06A2C4",
+    "airlineName": "Qatar Airways",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-3DZER",
+    "numSeats": 354,
+    "rolloutDate": "2018-04-09",
+    "firstFlightDate": "2018-04-09",
+    "deliveryDate": "2018-06-19",
+    "registrationDate": "2018-06-19",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 7.7,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

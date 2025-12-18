@@ -1,0 +1,27 @@
+[
+  {
+    "id": 19264,
+    "reg": "B-18001",
+    "active": true,
+    "serial": "43978",
+    "hexIcao": "89901B",
+    "airlineName": "China Airlines",
+    "iataCodeShort": "777",
+    "icaoCode": "B777",
+    "model": "B773",
+    "modelCode": "B777-309ER",
+    "numSeats": 358,
+    "rolloutDate": "2015-04-27",
+    "firstFlightDate": "2015-04-27",
+    "deliveryDate": "2015-05-22",
+    "registrationDate": "2015-05-22",
+    "typeName": "Boeing 777",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 10.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

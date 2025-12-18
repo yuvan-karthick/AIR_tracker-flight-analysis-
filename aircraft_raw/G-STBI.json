@@ -1,0 +1,27 @@
+[
+  {
+    "id": 19174,
+    "reg": "G-STBI",
+    "active": true,
+    "serial": "43702",
+    "hexIcao": "406A34",
+    "airlineName": "British Airways",
+    "iataCodeShort": "773",
+    "icaoCode": "B773",
+    "model": "B773",
+    "modelCode": "B777-336ER",
+    "numSeats": 299,
+    "rolloutDate": "2014-01-15",
+    "firstFlightDate": "2014-01-15",
+    "deliveryDate": "2014-01-28",
+    "registrationDate": "2014-01-28",
+    "typeName": "Boeing 777-300",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 11.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

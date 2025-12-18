@@ -1,0 +1,27 @@
+[
+  {
+    "id": 18569,
+    "reg": "9V-SWV",
+    "active": true,
+    "serial": "42236",
+    "hexIcao": "76CEF6",
+    "airlineName": "Singapore Airlines",
+    "iataCodeShort": "773",
+    "icaoCode": "B773",
+    "model": "B773",
+    "modelCode": "B777-312ER",
+    "numSeats": 264,
+    "rolloutDate": "2013-08-26",
+    "firstFlightDate": "2013-08-27",
+    "deliveryDate": "2013-09-27",
+    "registrationDate": "2013-09-26",
+    "typeName": "Boeing 777-300",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 12.3,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

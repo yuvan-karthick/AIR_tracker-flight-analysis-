@@ -1,0 +1,27 @@
+[
+  {
+    "id": 7820,
+    "reg": "G-VIIE",
+    "active": true,
+    "serial": "27487",
+    "hexIcao": "4005BD",
+    "airlineName": "British Airways",
+    "iataCodeShort": "772",
+    "icaoCode": "B772",
+    "model": "B772",
+    "modelCode": "B777-236ER",
+    "numSeats": 235,
+    "rolloutDate": "1997-02-14",
+    "firstFlightDate": "1997-02-14",
+    "deliveryDate": "1997-02-27",
+    "registrationDate": "1997-02-27",
+    "typeName": "Boeing 777-200",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 777",
+    "ageYears": 28.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

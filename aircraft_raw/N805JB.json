@@ -1,0 +1,27 @@
+[
+  {
+    "id": 21249,
+    "reg": "N805JB",
+    "active": true,
+    "serial": "5148",
+    "hexIcao": "AAF53A",
+    "airlineName": "JetBlue Airways",
+    "iataCodeShort": "32A",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-232",
+    "numSeats": 162,
+    "rolloutDate": "2012-05-03",
+    "firstFlightDate": "2012-05-03",
+    "deliveryDate": "2012-06-09",
+    "registrationDate": "2012-06-09",
+    "typeName": "Airbus A320 (Sharklets)",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 13.6,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

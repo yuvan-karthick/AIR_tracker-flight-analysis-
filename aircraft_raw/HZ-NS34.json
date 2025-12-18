@@ -1,0 +1,25 @@
+[
+  {
+    "id": 94547,
+    "reg": "HZ-NS34",
+    "active": true,
+    "serial": "10350",
+    "hexIcao": "710DBC",
+    "airlineName": "flynas",
+    "iataCodeShort": "32N",
+    "icaoCode": "A20N",
+    "model": "A20N",
+    "modelCode": "320-251N",
+    "numSeats": 174,
+    "rolloutDate": "2021-01-12",
+    "registrationDate": "2021-02-05",
+    "typeName": "Airbus A320 NEO",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320 NEO",
+    "ageYears": 4.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

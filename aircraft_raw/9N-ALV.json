@@ -1,0 +1,25 @@
+[
+  {
+    "id": 49698,
+    "reg": "9N-ALV",
+    "active": true,
+    "serial": "7503",
+    "hexIcao": "70AA6F",
+    "airlineName": "Himalaya Airlines",
+    "iataCodeShort": "320",
+    "icaoCode": "A320",
+    "model": "A320",
+    "modelCode": "320-214",
+    "numSeats": 158,
+    "rolloutDate": "2017-01-06",
+    "registrationDate": "2017-01-30",
+    "typeName": "Airbus A320",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A320",
+    "ageYears": 8.9,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "id": 9707,
+    "reg": "N831MH",
+    "active": true,
+    "serial": "29702",
+    "hexIcao": "AB5D2C",
+    "airlineName": "Delta Air Lines",
+    "iataCodeShort": "764",
+    "icaoCode": "B764",
+    "model": "B764",
+    "modelCode": "B767-432ER",
+    "numSeats": 238,
+    "rolloutDate": "2000-09-01",
+    "firstFlightDate": "2000-09-01",
+    "deliveryDate": "2000-09-20",
+    "registrationDate": "2000-09-20",
+    "typeName": "Boeing 767-400",
+    "numEngines": 2,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Boeing 767",
+    "ageYears": 25.3,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]

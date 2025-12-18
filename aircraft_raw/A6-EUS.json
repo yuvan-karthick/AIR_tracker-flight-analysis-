@@ -1,0 +1,27 @@
+[
+  {
+    "id": 5667,
+    "reg": "A6-EUS",
+    "active": true,
+    "serial": "234",
+    "hexIcao": "89647D",
+    "airlineName": "Emirates",
+    "iataCodeShort": "380",
+    "icaoCode": "A380",
+    "model": "A388",
+    "modelCode": "380-842",
+    "numSeats": 516,
+    "rolloutDate": "2014-02-09",
+    "firstFlightDate": "2017-02-09",
+    "deliveryDate": "2017-11-30",
+    "registrationDate": "2017-11-30",
+    "typeName": "Airbus A380",
+    "numEngines": 4,
+    "engineType": "Jet",
+    "isFreighter": false,
+    "productionLine": "Airbus A380",
+    "ageYears": 11.8,
+    "verified": true,
+    "numRegistrations": 1
+  }
+]
