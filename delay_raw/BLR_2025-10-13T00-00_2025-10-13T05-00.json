@@ -1,0 +1,25 @@
+{
+  "airportIcao": "VOBL",
+  "from": {
+    "utc": "2025-10-12 16:30Z",
+    "local": "2025-10-12 22:00+05:30"
+  },
+  "to": {
+    "utc": "2025-10-12 18:30Z",
+    "local": "2025-10-13 00:00+05:30"
+  },
+  "departuresDelayInformation": {
+    "numTotal": 19,
+    "numQualifiedTotal": 19,
+    "numCancelled": 0,
+    "medianDelay": "00:00:00",
+    "delayIndex": 0.0
+  },
+  "arrivalsDelayInformation": {
+    "numTotal": 46,
+    "numQualifiedTotal": 46,
+    "numCancelled": 1,
+    "medianDelay": "-00:13:00",
+    "delayIndex": 0.0
+  }
+}

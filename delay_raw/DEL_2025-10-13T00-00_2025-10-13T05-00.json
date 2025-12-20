@@ -1,0 +1,21 @@
+{
+  "airportIcao": "VIDP",
+  "from": {
+    "utc": "2025-10-12 16:30Z",
+    "local": "2025-10-12 22:00+05:30"
+  },
+  "to": {
+    "utc": "2025-10-12 18:30Z",
+    "local": "2025-10-13 00:00+05:30"
+  },
+  "departuresDelayInformation": {
+    "numTotal": 29,
+    "numQualifiedTotal": 0,
+    "numCancelled": 0
+  },
+  "arrivalsDelayInformation": {
+    "numTotal": 70,
+    "numQualifiedTotal": 0,
+    "numCancelled": 0
+  }
+}

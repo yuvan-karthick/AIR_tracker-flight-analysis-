@@ -1,0 +1,25 @@
+{
+  "airportIcao": "EGLL",
+  "from": {
+    "utc": "2025-10-12 21:00Z",
+    "local": "2025-10-12 22:00+01:00"
+  },
+  "to": {
+    "utc": "2025-10-12 23:00Z",
+    "local": "2025-10-13 00:00+01:00"
+  },
+  "departuresDelayInformation": {
+    "numTotal": 37,
+    "numQualifiedTotal": 37,
+    "numCancelled": 0,
+    "medianDelay": "00:23:00",
+    "delayIndex": 1.28
+  },
+  "arrivalsDelayInformation": {
+    "numTotal": 37,
+    "numQualifiedTotal": 37,
+    "numCancelled": 0,
+    "medianDelay": "00:14:00",
+    "delayIndex": 0.78
+  }
+}

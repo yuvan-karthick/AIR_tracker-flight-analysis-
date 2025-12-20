@@ -1,0 +1,25 @@
+{
+  "airportIcao": "WSSS",
+  "from": {
+    "utc": "2025-10-12 14:00Z",
+    "local": "2025-10-12 22:00+08:00"
+  },
+  "to": {
+    "utc": "2025-10-12 16:00Z",
+    "local": "2025-10-13 00:00+08:00"
+  },
+  "departuresDelayInformation": {
+    "numTotal": 38,
+    "numQualifiedTotal": 38,
+    "numCancelled": 0,
+    "medianDelay": "00:00:00",
+    "delayIndex": 0.0
+  },
+  "arrivalsDelayInformation": {
+    "numTotal": 49,
+    "numQualifiedTotal": 49,
+    "numCancelled": 0,
+    "medianDelay": "-00:14:00",
+    "delayIndex": 0.0
+  }
+}

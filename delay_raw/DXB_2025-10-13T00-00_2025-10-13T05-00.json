@@ -1,0 +1,21 @@
+{
+  "airportIcao": "OMDB",
+  "from": {
+    "utc": "2025-10-12 18:00Z",
+    "local": "2025-10-12 22:00+04:00"
+  },
+  "to": {
+    "utc": "2025-10-12 20:00Z",
+    "local": "2025-10-13 00:00+04:00"
+  },
+  "departuresDelayInformation": {
+    "numTotal": 47,
+    "numQualifiedTotal": 6,
+    "numCancelled": 0
+  },
+  "arrivalsDelayInformation": {
+    "numTotal": 67,
+    "numQualifiedTotal": 2,
+    "numCancelled": 0
+  }
+}
