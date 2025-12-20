@@ -22,8 +22,8 @@ if not os.path.exists("aircraft_raw"):
 conn = http.client.HTTPSConnection("aerodatabox.p.rapidapi.com")
 
 headers = {
-    "x-rapidapi-key": "9dd7fc56a6msh464e7a794ef8e60p12bebbjsn49606a94a08d",
-    "x-rapidapi-host": "aerodatabox.p.rapidapi.com"
+    "x-rapidapi-key": "API KEY",
+    "x-rapidapi-host": "API HOST"
 }
 
 all_flight_records = []

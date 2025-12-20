@@ -1,0 +1,25 @@
+{
+  "airportIcao": "KJFK",
+  "from": {
+    "utc": "2025-10-13 02:00Z",
+    "local": "2025-10-12 22:00-04:00"
+  },
+  "to": {
+    "utc": "2025-10-13 04:00Z",
+    "local": "2025-10-13 00:00-04:00"
+  },
+  "departuresDelayInformation": {
+    "numTotal": 64,
+    "numQualifiedTotal": 64,
+    "numCancelled": 0,
+    "medianDelay": "01:36:00",
+    "delayIndex": 5.0
+  },
+  "arrivalsDelayInformation": {
+    "numTotal": 65,
+    "numQualifiedTotal": 64,
+    "numCancelled": 0,
+    "medianDelay": "01:12:00",
+    "delayIndex": 4.03
+  }
+}

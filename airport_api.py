@@ -9,8 +9,8 @@ from pandas import json_normalize
 conn = http.client.HTTPSConnection("aerodatabox.p.rapidapi.com")
 
 headers = {
-    'x-rapidapi-key': "af205464edmsha65a0fa73a1fde7p150936jsnc3d38b50a745",
-    'x-rapidapi-host': "aerodatabox.p.rapidapi.com"
+    "x-rapidapi-key": "API KEY",
+    "x-rapidapi-host": "API HOST"
 }
 
 CODES = ["LHR","JFK","CBJ","DEL","BOM","BLR","DXB","SIN","HYD","CCU","AMD","COK","GOX","PNQ"]
