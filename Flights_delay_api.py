@@ -119,3 +119,53 @@ df_delays = pd.DataFrame(rows)
 
 print("sample 10 rows of df →")
 print(df_delays.head(10).to_string(index=False))
+
+
+#SQL CREATION::::
+
+cur.execute("""
+CREATE TABLE IF NOT EXISTS delays (
+    delay_id INTEGER PRIMARY KEY AUTOINCREMENT,
+    airport_iata TEXT,
+    start_time TEXT,
+    end_time TEXT,
+    avg_departure_delay INTEGER,
+    avg_arrival_delay INTEGER,
+    delayed_departures INTEGER,
+    delayed_arrivals INTEGER
+);
+""")
+
+conn_db.commit()
+
+insert_sql = """
+INSERT INTO delays (
+    airport_iata,
+    start_time,
+    end_time,
+    avg_departure_delay,
+    avg_arrival_delay,
+    delayed_departures,
+    delayed_arrivals
+) VALUES (?, ?, ?, ?, ?, ?, ?);
+"""
+
+for _, row in df_delays.iterrows():
+    cur.execute(insert_sql, (
+        row["airport_iata"],
+        row["start_time"],
+        row["end_time"],
+        row["avg_departure_delay"],
+        row["avg_arrival_delay"],
+        row["delayed_departures"],
+        row["delayed_arrivals"],
+    ))
+
+conn_db.commit()
+
+print("\nSample delays table →")
+cur.execute("SELECT * FROM delays LIMIT 10;")
+for r in cur.fetchall():
+    print(r)
+
+conn_db.close()
