@@ -88,7 +88,6 @@ if not all_flight_records_flat:
 
 df = json_normalize(all_flight_records_flat, sep="_")
 
-# --- BUILD FLIGHTS TABLE ---
 
 df_flights = pd.DataFrame()
 

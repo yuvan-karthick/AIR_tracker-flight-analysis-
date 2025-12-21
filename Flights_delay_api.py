@@ -36,8 +36,8 @@ if not airports:
 conn = http.client.HTTPSConnection("aerodatabox.p.rapidapi.com")
 
 headers = {
-    "x-rapidapi-key": "fd10360abbmshe13e7d4676c8bd3p1493e1jsn7bef08ec1ad1",
-    "x-rapidapi-host": "aerodatabox.p.rapidapi.com"
+    "x-rapidapi-key": "API KEY",
+    "x-rapidapi-host": "API HOST"
 }
 
 delay_rows = []
