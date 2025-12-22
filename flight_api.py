@@ -1,92 +1,55 @@
-import http.client 
 import os
 import json
-import time
 import pandas as pd
 from pandas import json_normalize
+import sqlite3
 
-AIRPORTS = ["LHR","JFK","DEL","BOM","BLR",
-            "DXB","SIN","HYD","CCU","AMD","COK","PNQ"]
 
-START = "2025-10-13T00:00"
-END   = "2025-10-13T05:00"
 
-SAFE_START = START.replace(":", "-")
-SAFE_END = END.replace(":", "-")
+DATA_DIR = "Flights_raw"
 
-RETRY_COUNT = 3
+if not os.path.exists(DATA_DIR):
+    print("❌ Flights_raw folder not found")
+    exit()
 
-if not os.path.exists("aircraft_raw"):
-    os.makedirs("aircraft_raw")
 
-conn = http.client.HTTPSConnection("aerodatabox.p.rapidapi.com")
-
-headers = {
-    "x-rapidapi-key": "API KEY",
-    "x-rapidapi-host": "API HOST"
-}
 
 all_flight_records = []
 
-for airport in AIRPORTS:
-
-    filename = f"aircraft_raw/{airport}_{SAFE_START}_{SAFE_END}.json"
-
-    if os.path.exists(filename):
-        print(f"Loading cached data for {airport}")
-        with open(filename, "r", encoding="utf-8") as f:
-            records = json.load(f)
-        all_flight_records.append((airport, records))
+for file in os.listdir(DATA_DIR):
+    if not file.endswith(".json"):
         continue
 
-    print(f"Fetching new data for {airport}")
+    airport = file.split("_")[0]   # AMD_2025-... → AMD
+    filepath = os.path.join(DATA_DIR, file)
 
-    url = (
-        f"/flights/airports/iata/{airport}/{START}/{END}"
-        "?withLeg=true&direction=Both&withCancelled=true&withCodeshared=true"
-        "&withCargo=true&withPrivate=true&withLocation=false"
-    )
+    print(f"✅ Loading cached file: {file}")
 
-    for attempt in range(1, RETRY_COUNT+1):
-        conn.request("GET", url, headers=headers)
-        res = conn.getresponse()
-        raw = res.read()
-        text = raw.decode("utf-8", errors="replace")
+    with open(filepath, "r", encoding="utf-8") as f:
+        records = json.load(f)
 
-        print(f"Attempt {attempt}: HTTP {res.status}")
-
-        if res.status == 200 and text.strip():
-            records = json.loads(text)
-            with open(filename, "w", encoding="utf-8") as f:
-                json.dump(records, f, indent=2, ensure_ascii=False)
-            all_flight_records.append((airport, records))
-            print(f"Saved data for {airport}")
-            break
-
-        if attempt == RETRY_COUNT:
-            print(f"Failed after {RETRY_COUNT} attempts for {airport}")
-
-        time.sleep(0.5)
+    all_flight_records.append((airport, records))
 
 if not all_flight_records:
-    print("There ain't no data available")
+    print("❌ No cached JSON files found")
     exit()
+
+
 
 all_flight_records_flat = []
 
 for origin_iata, item in all_flight_records:
     if isinstance(item, dict) and "departures" in item:
-        dep = item["departures"]
-        if isinstance(dep, list):
-            for flight in dep:
-                flight["origin_iata"] = origin_iata
-                all_flight_records_flat.append(flight)
+        for flight in item["departures"]:
+            flight["origin_iata"] = origin_iata
+            all_flight_records_flat.append(flight)
 
 if not all_flight_records_flat:
-    print("No flight data available after flattening.")
+    print("❌ No flight data after flattening")
     exit()
 
 df = json_normalize(all_flight_records_flat, sep="_")
+
 
 
 df_flights = pd.DataFrame()
@@ -99,11 +62,12 @@ df_flights["destination_iata"] = df.get("arrival_airport_iata")
 df_flights["scheduled_departure"] = df.get("departure_scheduledTime_utc")
 df_flights["scheduled_arrival"] = df.get("arrival_scheduledTime_utc")
 
-def pick_actual(col_actual, col_runway, col_revised):
-    actual = df.get(col_actual, pd.Series([None] * len(df)))
-    runway = df.get(col_runway, pd.Series([None] * len(df)))
-    revised = df.get(col_revised, pd.Series([None] * len(df)))
-    return actual.fillna(runway).fillna(revised)
+def pick_actual(a, r, v):
+    return (
+        df.get(a, pd.Series([None]*len(df)))
+        .fillna(df.get(r, pd.Series([None]*len(df))))
+        .fillna(df.get(v, pd.Series([None]*len(df))))
+    )
 
 df_flights["actual_departure"] = pick_actual(
     "departure_actualTime_utc",
@@ -142,19 +106,15 @@ df_flights = df_flights[
 ]
 
 print("\nFinal FLIGHTS TABLE →")
-print(df_flights.head(20).to_string(index=False))
+print(df_flights.head(10).to_string(index=False))
 
 
-#SQL CONVERTION:::
+conn = sqlite3.connect("airtracker.db")
+cur = conn.cursor()
 
-import sqlite3
-
-conn= sqlite3.connect("airtracker.db")
-cursor=conn.cursor()
-
-cursor.execute("""
-CREATE TABLE IF NOT EXISTS flights(
-               flight_id TEXT PRIMARY KEY,
+cur.execute("""
+CREATE TABLE IF NOT EXISTS flights (
+    flight_id TEXT PRIMARY KEY,
     flight_number TEXT,
     aircraft_registration TEXT,
     origin_iata TEXT,
@@ -165,35 +125,13 @@ CREATE TABLE IF NOT EXISTS flights(
     actual_arrival TEXT,
     status TEXT,
     airline_code TEXT
-               );
+);
 """)
-conn.commit()
 
-insert_sql = """
-INSERT OR IGNORE INTO flights (
-    flight_id,
-    flight_number,
-    aircraft_registration,
-    origin_iata,
-    destination_iata,
-    scheduled_departure,
-    actual_departure,
-    scheduled_arrival,
-    actual_arrival,
-    status,
-    airline_code
-) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?);
-"""
+insert_sql = "INSERT OR IGNORE INTO flights VALUES (?,?,?,?,?,?,?,?,?,?,?)"
 
 for _, row in df_flights.iterrows():
-    cursor.execute(insert_sql, tuple(row))
+    cur.execute(insert_sql, tuple(row))
+
 conn.commit()
-
-cursor.execute("SELECT * from flights LIMIT 10 ")
-rows= cursor.fetchall()
-
-print("printing sample rows from flight →")
-for r in rows:
-    print(r)
-
 conn.close()

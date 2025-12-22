@@ -127,23 +127,42 @@ df = json_normalize(aircrafts_records)
 
 # Manufacturer extraction helper
 def get_manufacturer(type_name):
-    if not isinstance(type_name, str):
-        return None
-    if "Airbus" in type_name:
+    if not isinstance(type_name, str) or not type_name.strip():
+        return "Unknown"
+
+    name = type_name.lower()
+
+    if "airbus" in name:
         return "Airbus"
-    if "Boeing" in type_name:
+    if "boeing" in name:
         return "Boeing"
-    if "Embraer" in type_name:
+    if "embraer" in name:
         return "Embraer"
-    return None
+    if "atr" in name:
+        return "ATR"
+    if "bombardier" in name:
+        return "Bombardier"
+    if "cessna" in name:
+        return "Cessna"
+    if "comac" in name:
+        return "COMAC"
+    if "tupolev" in name:
+        return "Tupolev"
+    if "ilyushin" in name:
+        return "Ilyushin"
+
+    # fallback → first word (safe)
+    return type_name.split()[0].title()
+
 
 df_aircrafts = pd.DataFrame({
     "registration": df.get("reg"),
-    "model": df.get("typeName"),               # FIX 6: correct model field
-    "manufacturer": df["typeName"].apply(get_manufacturer),
+    "model": df.get("typeName"),
+    "manufacturer": df.get("typeName").apply(get_manufacturer),
     "icao_type_code": df.get("icaoCode"),
     "owner": df.get("airlineName").fillna("Unknown")
 })
+
 
 print("\nSample rows →")
 print(df_aircrafts.head(10).to_string(index=False))
