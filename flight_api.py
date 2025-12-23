@@ -9,7 +9,7 @@ import sqlite3
 DATA_DIR = "Flights_raw"
 
 if not os.path.exists(DATA_DIR):
-    print("❌ Flights_raw folder not found")
+    print("Flights_raw folder not found")
     exit()
 
 
@@ -23,7 +23,7 @@ for file in os.listdir(DATA_DIR):
     airport = file.split("_")[0]   # AMD_2025-... → AMD
     filepath = os.path.join(DATA_DIR, file)
 
-    print(f"✅ Loading cached file: {file}")
+    print(f"Loading cached file: {file}")
 
     with open(filepath, "r", encoding="utf-8") as f:
         records = json.load(f)
@@ -31,7 +31,7 @@ for file in os.listdir(DATA_DIR):
     all_flight_records.append((airport, records))
 
 if not all_flight_records:
-    print("❌ No cached JSON files found")
+    print("No cached JSON files found")
     exit()
 
 
@@ -45,7 +45,7 @@ for origin_iata, item in all_flight_records:
             all_flight_records_flat.append(flight)
 
 if not all_flight_records_flat:
-    print("❌ No flight data after flattening")
+    print(" No flight data after flattening")
     exit()
 
 df = json_normalize(all_flight_records_flat, sep="_")

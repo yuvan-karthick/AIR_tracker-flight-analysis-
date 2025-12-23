@@ -38,8 +38,20 @@ st.markdown(
     "<h1 style='color:#1f77b4;'>✈️ Flights</h1>",
     unsafe_allow_html=True
 )
-st.subheader("Flights per Aircraft Model")
-st.dataframe(db.flights_per_aircraft_model(), use_container_width=True)
+st.subheader("✈️ Flights per Aircraft Model")
+
+# Get data FIRST
+df = db.flights_per_aircraft_model()
+
+# Show table
+st.dataframe(df, use_container_width=True)
+
+# Show big chart below
+st.bar_chart(
+    df.set_index("model")["flight_count"],
+    height=550
+)
+
 
 st.subheader("Aircraft with > 5 Flights")
 st.dataframe(db.aircraft_with_more_than_5_flights(), use_container_width=True)

@@ -15,7 +15,7 @@ print("AIRCRAFT API DB PATH:", os.path.abspath(DB_NAME))
 if not os.path.exists(CACHE_DIR):
     os.makedirs(CACHE_DIR)
 
-# ---------------- LOAD DISTINCT REGISTRATIONS ----------------
+
 conn_db = sqlite3.connect(DB_NAME)
 cursor = conn_db.cursor()
 
@@ -36,7 +36,7 @@ if not registrations:
     conn_db.close()
     exit()
 
-# ---------------- API CLIENT ----------------
+
 conn = http.client.HTTPSConnection("aerodatabox.p.rapidapi.com")
 
 headers = {
@@ -47,13 +47,13 @@ headers = {
 USE_API = True
 aircrafts_records = []
 
-# ---------------- FETCH + CACHE LOOP ----------------
+
 for reg in registrations:
 
     safe_reg = reg.replace("/", "-").replace(" ", "_")
     filename = f"{CACHE_DIR}/{safe_reg}.json"
 
-    # ----- FIX 1: If API disabled, load only from cache -----
+    
     if not USE_API:
         if os.path.exists(filename):
             with open(filename, "r", encoding="utf-8") as f:
@@ -64,13 +64,13 @@ for reg in registrations:
                 aircrafts_records.append(data)
         continue
 
-    # ----- Check cache first -----
+    
     if os.path.exists(filename):
         print(f"Loading cached data for {reg}")
         with open(filename, "r", encoding="utf-8") as f:
             data = json.load(f)
 
-        # FIX 3: Expand list into rows
+        
         if isinstance(data, list):
             aircrafts_records.extend(data)
         else:
@@ -117,7 +117,7 @@ for reg in registrations:
 
     time.sleep(0.3)
 
-# ---------------- BUILD DATAFRAME ----------------
+
 if not aircrafts_records:
     print("No aircraft data collected")
     conn_db.close()
@@ -125,7 +125,7 @@ if not aircrafts_records:
 
 df = json_normalize(aircrafts_records)
 
-# Manufacturer extraction helper
+
 def get_manufacturer(type_name):
     if not isinstance(type_name, str) or not type_name.strip():
         return "Unknown"
@@ -167,7 +167,7 @@ df_aircrafts = pd.DataFrame({
 print("\nSample rows →")
 print(df_aircrafts.head(10).to_string(index=False))
 
-# ---------------- SAVE TO SQL ----------------
+
 cur = conn_db.cursor()
 
 cur.execute("""

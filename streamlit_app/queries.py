@@ -46,20 +46,25 @@ def outbound_flights_by_airport():
 
 
 # 4️⃣ Top 3 destination airports
-def top_3_destination_airports():
-    query = """
-    SELECT ap.name, ap.city, COUNT(*) AS arrivals
+def top_destination_airports(limit: int):
+    query = f"""
+    SELECT 
+        ap.name AS airport_name,
+        ap.city,
+        COUNT(*) AS arrivals
     FROM flights f
-    JOIN airport ap ON f.destination_iata = ap.iata_code
+    JOIN airport ap 
+        ON f.destination_iata = ap.iata_code
     GROUP BY ap.name, ap.city
     ORDER BY arrivals DESC
-    LIMIT 3
+    LIMIT {limit}
     """
     with get_connection() as conn:
         return pd.read_sql(query, conn)
 
 
-# 5️⃣ Domestic vs International flights
+
+    # 5️⃣ Domestic vs International flights
 def domestic_vs_international_flights():
     query = """
     SELECT f.flight_number,
@@ -75,6 +80,7 @@ def domestic_vs_international_flights():
     """
     with get_connection() as conn:
         return pd.read_sql(query, conn)
+
 
 
 # 6️⃣ 5 most recent arrivals at DEL
