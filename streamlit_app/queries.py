@@ -83,13 +83,13 @@ def recent_arrivals_at_del():
     SELECT f.flight_number,
            a.model AS aircraft,
            ap.name AS departure_airport,
-           f.actual_arrival
+           f.scheduled_arrival
     FROM flights f
     JOIN aircrafts a ON f.aircraft_registration = a.registration
     JOIN airport ap ON f.origin_iata = ap.iata_code
     WHERE f.destination_iata = 'DEL'
-      AND f.actual_arrival IS NOT NULL
-    ORDER BY datetime(f.actual_arrival) DESC
+      AND f.scheduled_arrival IS NOT NULL
+    ORDER BY datetime(f.scheduled_arrival) DESC
     LIMIT 5
     """
     with get_connection() as conn:
@@ -132,17 +132,16 @@ def flight_status_by_airline():
 # 9️⃣ Cancelled flights details
 def cancelled_flights_details():
     query = """
-    SELECT f.flight_number,
-           a.model AS aircraft,
-           o.name AS origin_airport,
-           d.name AS destination_airport,
-           f.scheduled_departure
-    FROM flights f
-    JOIN aircrafts a ON f.aircraft_registration = a.registration
-    JOIN airport o ON f.origin_iata = o.iata_code
-    JOIN airport d ON f.destination_iata = d.iata_code
-    WHERE f.status = 'Cancelled'
-    ORDER BY f.scheduled_departure DESC
+    SELECT
+    DISTINCT ap.name AS airport_name,
+    ad.delay_date,
+    ad.canceled_flights
+FROM airport_delays ad
+JOIN airport ap
+    ON ad.airport_iata = ap.iata_code
+WHERE ad.canceled_flights > 0
+ORDER BY ad.canceled_flights DESC;
+
     """
     with get_connection() as conn:
         return pd.read_sql(query, conn)
@@ -169,21 +168,18 @@ def city_pairs_multiple_aircraft_models():
 # 1️⃣1️⃣ % delayed flights by destination airport
 def delayed_percentage_by_destination():
     query = """
-    SELECT ap.name AS airport_name,
-           ROUND(
-               100.0 * SUM(
-                   CASE
-                       WHEN actual_arrival IS NOT NULL
-                        AND scheduled_arrival IS NOT NULL
-                        AND actual_arrival > scheduled_arrival
-                       THEN 1 ELSE 0
-                   END
-               ) / COUNT(*), 2
-           ) AS delayed_percentage
-    FROM flights f
-    JOIN airport ap ON f.destination_iata = ap.iata_code
-    GROUP BY ap.name
-    ORDER BY delayed_percentage DESC
-    """
+    SELECT
+    DISTINCT ap.name AS airport_name,
+    fd.total_flights,
+    fd.delayed_flights,
+    ROUND(
+        100.0 * fd.delayed_flights / fd.total_flights,
+        2
+    ) AS delayed_percentage
+FROM airport_delays fd
+JOIN airport ap
+    ON fd.airport_iata = ap.iata_code
+ORDER BY delayed_percentage DESC;
+"""
     with get_connection() as conn:
         return pd.read_sql(query, conn)
