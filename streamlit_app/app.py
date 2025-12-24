@@ -1,5 +1,13 @@
 import streamlit as st
 
+# ---------------- PAGE CONFIG ----------------
+st.set_page_config(
+    page_title="AirTracker",
+    page_icon="assests/logo.png",   # 👈 YOUR LOGO PATH
+    layout="wide"
+)
+
+# ---------------- GLOBAL STYLES ----------------
 st.markdown(
     """
     <style>
@@ -32,14 +40,23 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-st.set_page_config(
-    page_title="AirTracker",
-    page_icon="✈️",
-    layout="wide"
-)
-st.title("🛫 AirTracker Analytics Dashboard 🛬")
+# ---------------- APP HEADER (LOGO + TITLE) ----------------
+col_logo, col_title = st.columns([3, 7])
 
+with col_logo:
+    st.image("assests/logo.png", width=160)
 
+with col_title:
+    st.markdown(
+        """
+        <h1 style='margin-bottom:0;'>AirTracker Flight Analytics</h1>
+        """,
+        unsafe_allow_html=True
+    )
+
+st.divider()
+
+# ---------------- DESCRIPTION ----------------
 st.write(
     """
     This is the **AirTracker** analytics application.
